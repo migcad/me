@@ -15,7 +15,7 @@ Markdown headings are fundamentally structural containers, not just visual styli
 
 Markdown itself only defines H1 through H6.  There is no H7, no H8, etc.
 
-`============================================================================================`
+`======================================================================================`
 
 Emphasis
 
