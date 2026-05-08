@@ -12,3 +12,28 @@ Markdown headings are fundamentally structural containers, not just visual styli
 ###### H6
 
 Markdown itself only defines H1 through H6.  There is no H7, no H8, etc.
+
+
+Bold/Italics
+
+**Bold**
+*Italic*
+
+
+Inline code
+`code`
+
+Generic block code (render treats as neutral text code, no auto-detection)
+```none
+code
+```
+
+Generic block code (render still might try to auto-detect language)
+```
+code
+```
+
+Python block code
+```python
+code
+```
