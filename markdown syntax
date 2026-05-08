@@ -31,14 +31,14 @@ Inline code
 
 `=======================================================================================================`
 
-Generic block code (render treats as neutral text code, no auto-detection)
+Generic block code with no render auto-detection (render treats as neutral text code)
 ```none
 ```none
 code
 ```
 ```
 
-Generic block code (render still might try to auto-detect language)
+Generic block code with possible auto-detection (render might try to auto-detect language)
 ```none
 ```
 code
