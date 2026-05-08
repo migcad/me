@@ -16,6 +16,7 @@ Markdown headings are fundamentally structural containers, not just visual styli
 Markdown itself only defines H1 through H6.  There is no H7, no H8, etc.
 
 `=======================================================================================================`
+Emphasis
 
 Bold/Italics
 
@@ -24,12 +25,18 @@ Bold/Italics
 *Italic*
 ```
 
+`=======================================================================================================`
+
+Line breaks
+
+Multiple blank lines are usually collapsed.
+
+`=======================================================================================================`
+
 Inline code
 ```none
 `code`
 ```
-
-`=======================================================================================================`
 
 Generic block code with no render auto-detection (render treats as neutral text code)
 ```none
