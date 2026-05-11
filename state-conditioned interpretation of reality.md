@@ -30,6 +30,6 @@ then even good strategies often fail because:
 - and the future appears doomed.
 
 The more natural order of transformation is (aligned with how human beings actually function in reality ; the path of lower internal resistance and higher psychological alignment):
-- State — change the condition you are operating from
-- Story — change the meaning and interpretation generated from that condition
-- Strategy — change the actions and systems that emerge from that new perspective
+- State — change the condition you are operating from (your emotional, physiological, and attentional condition in the present moment)
+- Story — change the meaning and interpretation generated from that condition (the meaning you assign to reality)
+- Strategy — change the actions and systems that emerge from that new perspective (the actions and systems you use)
