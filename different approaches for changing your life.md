@@ -1,7 +1,5 @@
 # GOAL
-- becoming resourceful enough to engage reality effectively
-- enter a condition where you are capable of dealing with reality effectively
-- Become psychologically and physiologically capable of engaging reality effectively under difficult conditions
+Develop the psychological, physiological, emotional, and cognitive capacity to remain resourceful enough to accurately understand reality and take effective constructive action under both normal and high-pressure conditions.
 
 
 Most people try to change their life by starting with strategy first.
