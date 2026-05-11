@@ -29,7 +29,7 @@ then even good strategies often fail because:
 - action feels heavy,
 - and the future appears doomed.
 
-The more natural order of transformation is:
+The more natural order of transformation is (aligned with how human beings actually function in reality ; the path of lower internal resistance and higher psychological alignment):
 - State — change the condition you are operating from
 - Story — change the meaning and interpretation generated from that condition
 - Strategy — change the actions and systems that emerge from that new perspective
