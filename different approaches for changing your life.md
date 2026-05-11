@@ -1,5 +1,6 @@
-# GOAL: becoming resourceful enough to engage reality effectively
-
+# GOAL
+- becoming resourceful enough to engage reality effectively
+- enter a condition where you are capable of dealing with reality effectively
 
 
 Most people try to change their life by starting with strategy first.
