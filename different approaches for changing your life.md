@@ -1,3 +1,7 @@
+# GOAL: becoming resourceful enough to engage reality effectively
+
+
+
 Most people try to change their life by starting with strategy first.
 
 They ask:
