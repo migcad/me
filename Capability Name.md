@@ -1,0 +1,3 @@
+- Question-Based: Can a person regulate their internal state, reframe the meaning of their story, and execute effective strategic action to change their future?
+- Noun-Based: State–Story–Strategy Transformation Loop
+- Verb + Noun: Regulate internal state → Reframe meaning of story → Execute strategic action
