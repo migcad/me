@@ -7,9 +7,9 @@ Compete against the next level of who you are, not against anybody else
 - Tony Robbins (Poverty, Domestic Violence)
 - Mr Beast (Poverty, Criticism)
 - Dan Martell (Poverty, Overweight, Violence)
-- David Goggins (Violence, 
+- David Goggins (domestic violence, depression, overweight)
 - Alex Hormozi (Poverty)
 - Leila Hormozi (Poverty, Violence)
-- Tom Bilyeu
-- Lewis Howes
-- Real Estate
+- Tom Bilyeu (poverty, depression)
+- Lewis Howes (poverty)
+- Ryan Serhant (poverty)
