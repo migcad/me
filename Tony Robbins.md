@@ -13,3 +13,4 @@ Compete against the next level of who you are, not against anybody else
 - Tom Bilyeu (poverty, depression)
 - Lewis Howes (poverty)
 - Ryan Serhant (poverty)
+- Mark Scisson (broke with kids)
