@@ -1,5 +1,4 @@
-driver: hunger
-persistance
+driver: hunger & being relentless
 willing to do what others are not
 
 ## People have faced the bottom of the barrel
