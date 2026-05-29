@@ -9,4 +9,6 @@ willing to do what others are not
 - David Goggins (Violence, 
 - Alex Hormozi (Poverty)
 - Leila Hormozi (Poverty, Violence)
-- 
+- Tom
+- Lewis Howes
+- Real Estate
