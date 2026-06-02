@@ -2,7 +2,7 @@
 
 ## Be cognitive augmented in a world of cognitive reduced people
 The bar has never been so low, people now expect:
-- highest value possible (unlimited choice, 100% satisfaction guarantee)
+- highest value possible (100% satisfaction guarantee, unlimited choice)
 - shortest time possible (one-click, on-demand, home delivery)
 - lowest effort possible (low reasoning: others suggest to me / decide for me)
 - lowest sacrifice possible (no internal change, no tradeoffs)
