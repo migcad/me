@@ -1,6 +1,8 @@
 #1 driver for sucess: hunger & being relentless
 willing to do what others are not
 
+Self-esteem is earned by yourself with yourself. What people say to you means nothing whatsover if you have high self-esteem or not
+
 Compete against the next level of who you are, not against anybody else
 
 It's decisions, not conditions what determines your quality of life
