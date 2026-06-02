@@ -1,7 +1,7 @@
 #1 driver for sucess: hunger & being relentless
 willing to do what others are not
 
-Self-esteem is earned by yourself with yourself. What people say to you means nothing whatsover if you have high self-esteem or not
+Self-esteem is earned by yourself with yourself. What people say to you means nothing whatsover if you have high self-esteem or not. The way to develop self-esteem is to do difficult things that you know are right
 
 Compete against the next level of who you are, not against anybody else
 
