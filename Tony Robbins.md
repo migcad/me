@@ -1,7 +1,9 @@
-driver: hunger & being relentless
+#1 driver for sucess: hunger & being relentless
 willing to do what others are not
 
 Compete against the next level of who you are, not against anybody else
+
+It's decisions, not conditions what determines your quality of life
 
 ## People have faced the bottom of the barrel
 - Tony Robbins (Poverty, Domestic Violence)
