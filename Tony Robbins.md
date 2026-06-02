@@ -5,6 +5,8 @@ Compete against the next level of who you are, not against anybody else
 
 It's decisions, not conditions what determines your quality of life
 
+Stress is measured based on how much you feel you control events vs events controlling you
+
 ## People have faced the bottom of the barrel
 - Tony Robbins (Poverty, Domestic Violence)
 - Mr Beast (Poverty, Criticism)
