@@ -6,7 +6,9 @@ We've been hypnotised by a culture of weakness.
 ---
 
 Your growth is the only limit to your hapiness.
-Freedom does not come from control, it comes from growth. Control is an illusion
+Freedom does not come from control, it comes from growth.
+
+Control is an illusion. You can't control everybody and all events, no matter how hard you try
 
 ---
 
