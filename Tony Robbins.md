@@ -5,6 +5,10 @@ We've been hypnotised by a culture of weakness.
 
 ---
 
+Your growth is the only limit to your hapiness
+
+---
+
 Proximity is power.
 
 You're capped by how much you can achieve yourself.
