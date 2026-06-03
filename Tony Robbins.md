@@ -1,5 +1,7 @@
 #1 driver for sucess: hunger & being relentless
-willing to do what others are not
+
+You have to be willing to do what others are not.
+We've been hypnotised by a culture of weakness.
 
 ---
 
