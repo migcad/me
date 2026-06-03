@@ -31,7 +31,7 @@ Stress (fear, anxiety, depression) is measured based on how much you feel you co
 
 ---
 
-## People have faced the bottom of the barrel
+## People that have faced the bottom of the barrel
 - Tony Robbins (Poverty, Domestic Violence)
 - Mr Beast (Poverty, Criticism)
 - Dan Martell (Poverty, Overweight, Violence)
@@ -41,4 +41,4 @@ Stress (fear, anxiety, depression) is measured based on how much you feel you co
 - Tom Bilyeu (poverty, depression)
 - Lewis Howes (poverty)
 - Ryan Serhant (poverty)
-- Mark Scisson (broke with kids)
+- Mark Scisson (broke having kids)
