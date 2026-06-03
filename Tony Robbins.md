@@ -1,11 +1,29 @@
 #1 driver for sucess: hunger & being relentless
 willing to do what others are not
 
-Self-esteem is earned by yourself with yourself. What people say to you means nothing whatsover if you have high self-esteem or not. The way to develop self-esteem is to do difficult things that you know are right
+Proximity is power.
+
+You're capped by how much you can achieve yourself.
+
+It's limitless how much you can achieve by working with the right people.
+
+---
+
+Self-esteem is earned by yourself with yourself.
+
+What people say to you means nothing whatsover if you have high self-esteem or not.
+
+The way to develop self-esteem is to do difficult things that you know are right
+
+---
 
 Compete against the next level of who you are, not against anybody else
 
+---
+
 It's decisions, not conditions what determines your quality of life
+
+---
 
 Stress (fear, anxiety, depression) is measured based on how much you feel you control events vs events control you
 
