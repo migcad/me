@@ -1,6 +1,8 @@
 #1 driver for sucess: hunger & being relentless
 willing to do what others are not
 
+---
+
 Proximity is power.
 
 You're capped by how much you can achieve yourself.
@@ -26,6 +28,8 @@ It's decisions, not conditions what determines your quality of life
 ---
 
 Stress (fear, anxiety, depression) is measured based on how much you feel you control events vs events control you
+
+---
 
 ## People have faced the bottom of the barrel
 - Tony Robbins (Poverty, Domestic Violence)
