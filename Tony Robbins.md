@@ -5,6 +5,10 @@ We've been hypnotised by a culture of weakness.
 
 ---
 
+Learn to live in a beautiful state of mind
+
+---
+
 Your growth is the only limit to your hapiness.
 Freedom does not come from control, it comes from growth.
 
