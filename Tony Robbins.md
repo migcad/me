@@ -12,7 +12,7 @@ You have to upgrade your home and train it.
 
 Ways to train it:
 - The emotion comes from the way you move, breath, speak (including language)
-- Model at least 3 people who are successful instead of trail and error
+- Model at least 3 people who are successful instead of trail and error. Identify what they are doing differently, it's not luck
 
 ---
 
