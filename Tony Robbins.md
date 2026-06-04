@@ -6,7 +6,10 @@ We've been hypnotised by a culture of weakness.
 ---
 
 Quality of life is your emotions.
-Our patter of emption is our home.
+Our pattern of emotion is our home, you have to upgrade and train it. One way to train it comes from the way you move, breath and speak.
+
+---
+
 Learn to live in a beautiful state of mind.
 Blame is not a strategy for greatness.
 
