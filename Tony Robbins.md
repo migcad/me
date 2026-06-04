@@ -30,7 +30,7 @@ It's limitless how much you can achieve by working with the right people.
 
 Self-esteem is earned by yourself with yourself.
 
-What people say to you means nothing whatsover if you have high self-esteem or not.
+Self-esteem does not come from what people say about you. It comes from what you experience about yourself.
 
 The way to develop self-esteem is to do difficult things that you know are right
 
