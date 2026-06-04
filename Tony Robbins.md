@@ -9,6 +9,10 @@ Learn to live in a beautiful state of mind
 
 ---
 
+Don't judge yourself too hard in terms of life or death
+
+---
+
 Your growth is the only limit to your hapiness.
 Freedom does not come from control, it comes from growth.
 
