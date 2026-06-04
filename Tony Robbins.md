@@ -5,7 +5,8 @@ We've been hypnotised by a culture of weakness.
 
 ---
 
-Learn to live in a beautiful state of mind
+Learn to live in a beautiful state of mind.
+Blame is not a strategy for greatness.
 
 ---
 
