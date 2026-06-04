@@ -6,7 +6,7 @@ We've been hypnotised by a culture of weakness.
 ---
 
 Quality of life is your emotions.
-Our pattern of emotion is our home, you have to upgrade and train it. One way to train it comes from the way you move, breath and speak.
+Our pattern of emotion is our home, you have to upgrade and train it. One way to train it the emotion comes from the way you move, breath and speak.
 
 ---
 
