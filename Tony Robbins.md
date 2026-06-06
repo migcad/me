@@ -1,3 +1,6 @@
+# Patterns to create a break through
+
+
 #1 driver for sucess: hunger & being relentless
 
 You have to be willing to do what others are not.
