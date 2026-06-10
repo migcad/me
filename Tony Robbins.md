@@ -63,6 +63,9 @@ Stress (fear, anxiety, depression) is measured based on how much you feel you co
 
 ---
 
+## Re-Meaninging
+I play the game for my own game
+
 ## People that have faced the bottom of the barrel
 - Tony Robbins (Poverty, Domestic Violence)
 - Mr Beast (Poverty, Criticism)
