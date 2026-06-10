@@ -8,6 +8,10 @@ We've been hypnotised by a culture of weakness.
 
 ---
 
+People's biggest problem is thinking they shouldn't have problems
+
+---
+
 Quality of life is your emotions.
 Our pattern of emotion is our home
 
