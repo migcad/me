@@ -67,7 +67,19 @@ Stress (fear, anxiety, depression) is measured based on how much you feel you co
 
 ---
 
-## Re-Meaninging
+# Areas of life to focus on
+
+- Body
+- Mind
+- Emotions
+- Relationships
+- Finances
+- Spiritual
+- Business
+
+---
+
+# Re-Meaninging
 I play the game for my own game
 
 ## People that have faced the bottom of the barrel
