@@ -1,4 +1,4 @@
-# Patterns to create a break through
+# Patterns to create a break through (Life Improvement Process)
 
 
 #1 driver for sucess: hunger & being relentless
