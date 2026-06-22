@@ -3,6 +3,8 @@
 INCORPORATE
 - All the crypto accounting, ATO & SMSF problems
 - Injuries trigger feeling vulnerable
+- Feeling like I'm running out of time to fiz things
+- Frustrated to start all over again from zero
 
 ## My State-Story
 The emotions I'm feeling now and meanings I have assigned
