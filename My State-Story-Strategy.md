@@ -5,15 +5,15 @@ The emotions I'm feeling now and meanings I have assigned
 
 - **Overwhelmed** (I feel it's just too much, I've never faced so much pressure, more than a year of 24/7 distress)
 
-- **Helpless** (I feel old, broke and obsolete)
-I feel unable to perform actions to protect myself or improve my situation.
+- **Helpless** (I feel old, broke and obsolete)\
+I feel unable to perform actions to protect myself or improve my situation.\
 It implies a lack of skill (not AI resilient), physical ability (over 50), or resources (zero savings, zero equity, zero superannuation).
 
-- **Powerless** (I feel slavery status quo is taking control over me)
-I feel a lack of authority, influence, or control over external circumstances or other people.
+- **Powerless** (I feel slavery status quo is taking control over me)\
+I feel a lack of authority, influence, or control over external circumstances or other people.\
 It describes a deficit in agency.
 
-- **Hopeless** (I feel I have run out of options for saving my daughter)
+- **Hopeless** (I feel I have run out of options for saving my daughter)\
 I feel despair, pessimism, and the loss of belief that any future action will make a difference.
 
 - **Angry** (I feel I had it and I let it go in the most naive possible way and in the worst moment possible, biggest challenge humanity has ever faced)
