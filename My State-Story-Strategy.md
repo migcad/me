@@ -5,9 +5,9 @@ The emotions I'm feeling now
 
 - **Overwhelmed** (I feel it's just too much, I've never faced so much pressure, more than a year of 24/7 distress)
 
-- **Helpless** (I feel old and broke)
+- **Helpless** (I feel old, broke and obsolete)
 I feel unable to perform actions to protect myself or improve my situation.
-It implies a lack of skill, physical ability, or resources.
+It implies a lack of skill (not AI resilient), physical ability (over 50), or resources (zero savings, zero equity, zero superannuation).
 
 - **Powerless** (I feel slavery status quo is taking control over me)
 I feel a lack of authority, influence, or control over external circumstances or other people.
