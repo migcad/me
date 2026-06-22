@@ -24,6 +24,8 @@ I feel despair, pessimism, and the loss of belief that any future action will ma
 
 - **Looser** (I feel I had it and now many in the slavery status quo are in a better position)
 
+- **Inferior** (I feel people from my generation are more than set for life, I'm broke)
+
 - **Scared** (I feel my daughter will face unbelievable suffering)
 
 - **Desperate** (I feel I'm the only and last line of defense in my family)
