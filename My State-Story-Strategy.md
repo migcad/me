@@ -26,4 +26,8 @@ I feel despair, pessimism, and the loss of belief that any future action will ma
 
 - **Scared** (I feel my daughter will face unbelievable suffering)
 
-- **Lonely** (I feel I'm the only and last line of defense in my family)
+- **Desperate** (I feel I'm the only and last line of defense in my family)
+
+- **Lonely** (I feel nobody neither understands me nor is living a similar situation)
+
+- **Vulnerable** (I miss my dad so much, the male foundation of my life)
