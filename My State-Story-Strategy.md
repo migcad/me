@@ -30,6 +30,6 @@ I feel despair, pessimism, and the loss of belief that any future action will ma
 
 - **Lonely** (I feel nobody neither understands me nor is living a similar situation)
 
-- **Vulnerable** (I miss my dad so much, the male foundation of my life)
+- **Vulnerable** (I feel I'm walking on a very thin line that will break any moment. I miss my dad so much, the male rock foundation of my life)
 
 - **Tired** (I have never pushed so much for so long withou achieving the goal)
