@@ -5,8 +5,6 @@ The emotions I'm feeling now and meanings I have assigned
 
 - **Overwhelmed** (I feel it's just too much, I've never faced so much pressure, more than a year of 24/7 distress)
 
-- **Tired** (I have never pushed so much for so long withou achieving the goal)
-
 - **Helpless** (I feel old, broke and obsolete)\
 I feel unable to perform actions to protect myself or improve my situation.\
 It implies a lack of skill (not AI resilient), physical ability (over 50), or resources (zero savings, zero equity, zero superannuation).
@@ -33,3 +31,5 @@ I feel despair, pessimism, and the loss of belief that any future action will ma
 - **Lonely** (I feel nobody neither understands me nor is living a similar situation)
 
 - **Vulnerable** (I miss my dad so much, the male foundation of my life)
+
+- **Tired** (I have never pushed so much for so long withou achieving the goal)
