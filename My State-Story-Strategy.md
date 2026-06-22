@@ -1,7 +1,7 @@
 # My State-Story-Strategy
 
 ## My State-Story
-The emotions I'm feeling now
+The emotions I'm feeling now and meanings I have assigned
 
 - **Overwhelmed** (I feel it's just too much, I've never faced so much pressure, more than a year of 24/7 distress)
 
