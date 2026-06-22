@@ -2,7 +2,7 @@
 
 INCORPORATE
 - All the crypto accounting, ATO & SMSF problems
-
+- Injuries trigger feeling vulnerable
 
 ## My State-Story
 The emotions I'm feeling now and meanings I have assigned
