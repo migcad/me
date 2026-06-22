@@ -1,5 +1,9 @@
 # My State-Story-Strategy
 
+INCORPORATE
+- All the crypto accounting, ATO & SMSF problems
+
+
 ## My State-Story
 The emotions I'm feeling now and meanings I have assigned
 
