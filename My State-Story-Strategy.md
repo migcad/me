@@ -2,7 +2,7 @@
 
 INCORPORATE
 - All the crypto accounting, ATO & SMSF problems
-- Injuries trigger feeling vulnerable
+- Injuries trigger feeling vulnerable (back, neck, leg, groin, thumb)
 - Feeling like I'm running out of time to fiz things
 - Frustrated to start all over again from zero
 - Failure is not trying, not losing
