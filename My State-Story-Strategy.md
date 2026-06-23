@@ -8,6 +8,9 @@ INCORPORATE
 - Failure is not trying, not losing
 - Winners lose more than loosers
 
+FORMULA
+- Relief yourself from your own opinions
+
 ## My State-Story
 The emotions I'm feeling now and meanings I have assigned
 
