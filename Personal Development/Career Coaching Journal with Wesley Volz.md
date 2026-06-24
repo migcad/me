@@ -3,10 +3,10 @@
 ## Core mindset
 - Miguel in 1 word: Analytical
 - Miguel in a sentence: Always seeking to understand & live reality, driven by curiosity, possibilities & risk mitigation
-- Miguel in a paragraph: Always seeking to...
-impact positively, love & benefit from relationships that are within reach
-design my life adventures & experiments (creativity, suprise, adrenaline) in my own terms without the risk of ruin
-understand reality, driven by curiosity, possibilities & risk mitigation
+- Miguel in a paragraph: Always seeking to...\
+impact positively, love & benefit from relationships that are within reach\
+design my life adventures & experiments (creativity, suprise, adrenaline) in my own terms without the risk of ruin\
+understand reality, driven by curiosity, possibilities & risk mitigation\
 enjoy moderate instant gratification (preferably high effort gratification over minimal effort)
 
 ## Core values
