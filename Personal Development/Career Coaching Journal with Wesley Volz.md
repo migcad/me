@@ -19,11 +19,11 @@ I optimise life for accuracy (why & what) over speed, volume and cost (how)
 
 ## Career Background
 - Electroincs Engineer, started in the weeds as a UNIX consultant. Transitioned through time up-stream from implementation to strategy.  UNIX consultant --> C/Java/PHP programmer --> Business Analyst --> Process Analyst --> Business Process Improvement consultant --> Data consultant
-- All job engagements through out my life have had the following characteristics:
-I have always intentionally chosen them
-I have always determined when it was time to finish the engagement, I have always been appreciated for the value I can deliver, I have never been let go or fired
-I have always attracted peers to reach out for help/tutoring
-I have always been pulled out to contribute to "big picture" analysis
+- All job engagements through out my life have had the following characteristics:\
+I have always intentionally chosen them\
+I have always determined when it was time to finish the engagement, I have always been appreciated for the value I can deliver, I have never been let go or fired\
+I have always attracted peers to reach out for help/tutoring\
+I have always been pulled out to contribute to "big picture" analysis\
 Managers who I have developed a trusting relationship have provided me honest feedback re: my 70% is people's 100%, so to be faster & less perfeccionist ; I have above average ability to be clear & find the why)
 
 
