@@ -1,4 +1,4 @@
-# Latest Stable Prompt
+# Prompt
 Analyse the following source code of an email.  Break down the trail of email routing into segments so I can understand where the email originated and how it got relayed all the way to arriving to my Inbox.  Determine if this email is a phishing attempt. Display your entire response into a reusable Markdown-style writing block.
 
 ```none
