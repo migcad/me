@@ -1,7 +1,7 @@
 # Prompt
 What "roles" are likely going to be in high demand for hiring so enterprises can rethink their "business and operational models" once they come out of the hype of just using AI for optimising their current state?
 
-Desing a taxonomy of "roles" that most likely will be in high demand for hiring by organisations (governments, for-profit and non-profit) so they can rethink their "business and operational models" to develop "competitive advantages or simply remain competitive in global markets" once they come out of the hype of "just using AI for optimising their current state"?
+Design a taxonomy of "roles" that most likely will be in high demand for hiring by organisations (governments, for-profit and non-profit) so they can rethink their "business and operational models" to develop "competitive advantages or simply remain competitive in global markets" once they come out of the hype of "just using AI for optimising their current state"?
 
 The taxonomy must be exhaustive, orthogonal, interpretable, granularity balanced, scalable, have ontological uniformity, have ontological fidelity, have functional distinctiveness, have mutual exclusivity and have minimality.
 
