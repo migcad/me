@@ -1,5 +1,5 @@
 # Prompt
-what "roles" are going to be in high demand for hiring for enterprises to rethink their business and operational models once organisations come out of the hype of just using AI for optimising the current state of enterprises?
+What "roles" are likely going to be in high demand for hiring so enterprises can rethink their "business and operational models" once they come out of the hype of just using AI for optimising their current state?
 
 ---
 
