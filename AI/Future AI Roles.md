@@ -4,7 +4,7 @@ Instead of "AI Engineer" becoming the only important role, enterprises will incr
 
 These roles fall into several major domains.
 
-``` id="4nxx27"
+```none
 Enterprise Reinvention
 │
 ├── Strategy
