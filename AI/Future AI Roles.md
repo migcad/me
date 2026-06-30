@@ -1,4 +1,7 @@
 # Prompt
+what "roles" are going to be in high demand for hiring for enterprises to rethink their business and operational models once organisations come out of the hype of just using AI for optimising the current state of enterprises?
+
+---
 
 As enterprises mature beyond the "AI as a productivity tool" phase, the highest-demand roles are likely to shift away from people who simply build AI models toward people who can **redesign enterprises around AI-native operating models**.
 
