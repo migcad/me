@@ -1,6 +1,13 @@
 # Prompt
 What "roles" are likely going to be in high demand for hiring so enterprises can rethink their "business and operational models" once they come out of the hype of just using AI for optimising their current state?
 
+Desing a taxonomy of "roles" that most likely will be in high demand for hiring by organisations (governments, for-profit and non-profit) so they can rethink their "business and operational models" to develop competitive advantages or simply remain competitive in global markets once they come out of the hype of just using AI for optimising their current state?
+
+
+
+Avoid using semantic compression in your response.\
+Display your entire response in a single reusable Markdown-style writing block which I can directly save as a .md file.
+
 ---
 
 As enterprises mature beyond the "AI as a productivity tool" phase, the highest-demand roles are likely to shift away from people who simply build AI models toward people who can **redesign enterprises around AI-native operating models**.
