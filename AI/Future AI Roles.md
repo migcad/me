@@ -13,7 +13,6 @@ A useful way to think about this is that enterprises will move through approxima
 Today, most organisations remain between Stages 2 and 3.
 
 The largest hiring wave over the next decade is likely to occur in Stages 4 and 5.
-```
 
 # The emerging hiring landscape
 
