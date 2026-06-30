@@ -1,6 +1,8 @@
 # Prompt
 Analyse the following email trace and message source.
 
+email trace, MIME structure, plain-text body, HTML source, and multipart boundaries
+
 - Determine if this email is a phishing attack.
 - Break down the trail of email routing into segments so I can understand where the email originated and how it got relayed all the way to my Inbox.
 
