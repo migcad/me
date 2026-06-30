@@ -1,3 +1,5 @@
+# Prompt
+
 As enterprises mature beyond the "AI as a productivity tool" phase, the highest-demand roles are likely to shift away from people who simply build AI models toward people who can **redesign enterprises around AI-native operating models**.
 
 A useful way to think about this is that enterprises will move through approximately five stages.
