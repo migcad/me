@@ -1,3 +1,20 @@
+As enterprises mature beyond the "AI as a productivity tool" phase, the highest-demand roles are likely to shift away from people who simply build AI models toward people who can **redesign enterprises around AI-native operating models**.
+
+A useful way to think about this is that enterprises will move through approximately five stages.
+
+| Stage | Dominant Question | Typical AI Investment |
+| --- | --- | --- |
+| 1. Experimentation | "Can AI do this?" | Pilots |
+| 2. Productivity | "Can AI make existing work faster?" | Copilots, assistants |
+| 3. Process Transformation | "Can AI redesign this workflow?" | Workflow automation |
+| 4. Operating Model Reinvention | "Should this department even exist in its current form?" | AI-native business architecture |
+| 5. Business Model Reinvention | "What business should we become?" | New products, new revenue models |
+
+Today, most organisations remain between Stages 2 and 3.
+
+The largest hiring wave over the next decade is likely to occur in Stages 4 and 5.
+```
+
 # The emerging hiring landscape
 
 Instead of "AI Engineer" becoming the only important role, enterprises will increasingly need people who can redesign complex socio-technical systems.
