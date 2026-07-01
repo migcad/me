@@ -1,3 +1,3 @@
-# Your Mind
+# Discipline Your Mind
 
-- Don't negotiate with yourself, just do it
+- Train your mind to not negotiate with yourself by implementing a small uncomfortable constructive routine so this behaviour shows up in every other part of your life
