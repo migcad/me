@@ -1,4 +1,4 @@
-# Capability Scope, Goal & Name
+# Rewire Capability
 
 ## Capability Scope
 ```none
