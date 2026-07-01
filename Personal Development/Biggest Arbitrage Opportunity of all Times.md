@@ -1,4 +1,4 @@
-# Arbitrage Opportunities
+# Biggest Arbitrage Opportunity of all Times
 
 ## Be cognitive augmented in a world of cognitive reduced people
 The bar has never been so low, people now expect:
