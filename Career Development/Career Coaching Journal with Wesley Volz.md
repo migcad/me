@@ -34,6 +34,8 @@ Managers who I have developed a trusting relationship have provided me honest fe
 - Labour markets will be restructured into a “barbell economy” of labour
 - The world will face a K shape economy (AI empowered/human-central vs AI disabled/human-non-central)
 
+---
+
 ```none
 High-value strategic work  ██████████
                            │
@@ -47,6 +49,7 @@ middle cognitive work      │
 Human service / execution  ██████████
 ```
 
+---
 
 | Stage                          | Dominant Question                                        | Typical AI Investment            |
 | ------------------------------ | -------------------------------------------------------- | -------------------------------- |
@@ -56,12 +59,16 @@ Human service / execution  ██████████
 | 4. Operating Model Reinvention | "Should this department even exist in its current form?" | AI-native business architecture  |
 | 5. Business Model Reinvention  | "What business should we become?"                        | New products, new revenue models |
 
-A job is actually a bundle of tasks.
-Each task category has different automation potential.
+---
+
+A job is actually a bundle of tasks.\
+Each task category has different automation potential.\
 1. Routine Cognitive
 2. Non-Routine Cognitive
 3. Routine Manual
 4. Non-Routine Manual
+
+---
 
 ```none
 Enterprise Reinvention
