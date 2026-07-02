@@ -83,13 +83,14 @@ Stress (fear, anxiety, depression) is measured based on how much you feel you co
 I play the game for my own game
 
 ## People that have faced the bottom of the barrel
-- Tony Robbins (Poverty, Domestic Violence)
-- Mr Beast (Poverty, Criticism)
-- Dan Martell (Poverty, Overweight, Violence)
-- David Goggins (domestic violence, depression, overweight)
-- Alex Hormozi (Poverty)
-- Leila Hormozi (Poverty, Violence)
-- Tom Bilyeu (poverty, depression)
-- Lewis Howes (poverty)
-- Ryan Serhant (poverty)
-- Mark Scisson (broke having kids)
+- Tony Robbins (poverty, domestic violence)
+- Mr Beast (poverty, criticism)
+- Dan Martell (being broke, went to jail, overweight)
+- David Goggins (domestic violence, bullied, depression, overweight)
+- Alex Hormozi (being broke)
+- Leila Hormozi (being broke, violence)
+- Tom Bilyeu (being broke, depression)
+- Lewis Howes (being broke, american football career truncated, procastination)
+- Ryan Serhant (being broke)
+- Mark Scisson (being broke having kids)
+- Jimmy Barnes (poverty, sexual & physical violence, massive alchohol & drug abuse, suicidal attempt, daughter with disability) Used singing as a way to make people like him so people wouldn't hurt him
