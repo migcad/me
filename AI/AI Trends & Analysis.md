@@ -6,5 +6,8 @@ Coaching, community & curriculum to help everyone thrive in our AI‑powered fut
 It's hard to know what's worth doing, what's hype, and what matters.
 I make sure you don't have to navigate this alone.
 
+- https://events.humanitix.com/host/mila-guerra
+AI paper reading
+
 - https://www.linkedin.com/in/tyson-brown-208b88b6
-AI in Project Management, Brisbane
+Tyson Brown. AI in Project Management, Brisbane
