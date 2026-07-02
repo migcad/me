@@ -42,18 +42,18 @@ Managers who I have developed a trusting relationship have provided me honest fe
 | 4. Operating Model Reinvention | "Should this department even exist in its current form?" | AI-native business architecture  |
 | 5. Business Model Reinvention  | "What business should we become?"                        | New products, new revenue models |
 
-Enterprise Reinvention
-│
-├── Strategy
-├── Business Architecture
-├── Enterprise Operating Model
-├── AI Systems
-├── Human-AI Organisation Design
-├── Governance
-├── Change Transformation
-├── Economics
-├── Knowledge Systems
-└── Customer Experience
+Enterprise Reinvention\
+│\
+├── Strategy\
+├── Business Architecture\
+├── Enterprise Operating Model\
+├── AI Systems\
+├── Human-AI Organisation Design\
+├── Governance\
+├── Change Transformation\
+├── Economics\
+├── Knowledge Systems\
+└── Customer Experience\
 
 
  
