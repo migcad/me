@@ -29,7 +29,10 @@ Managers who I have developed a trusting relationship have provided me honest fe
 ---
 
 # Best, Base & Worst Cases
-- K shape economy
+- The foundation of all civilisation governance is capitalism.
+- AI is a GENERAL-PURPOSE technology + PROFIT POSSIBILITY = AI eventually will disrupt ALL industries in some way, shape or form.  It will progressively remove legacy "frictions", commoditising products/services/labour (premiums will no longer be defensible)
+- Labour markets will be restructured into a “barbell economy” of labour
+- The world will face a K shape economy (AI empowered vs AI disabled)
 
 | Stage                          | Dominant Question                                        | Typical AI Investment            |
 | ------------------------------ | -------------------------------------------------------- | -------------------------------- |
