@@ -1,3 +1,4 @@
+- “It is easier to build strong children than to repair broken men (adults)” Frederick Douglass Quotes (American - Author: Feb 14, 1818 - Feb 20, 1895)
 - Children are naturally curious, playful and hungry to learn. They are born noticers.
 - Curiosity is not just a childhood trait – it’s a human one. When adults model it, children flourish. When teachers model it, classrooms come alive. When leaders model it, schools become stronger.
 - Playfulness is a mindset. It’s a way of approaching the world with openness and possibility. It helps children feel safe, connected and engaged. It helps adults stay flexible, hopeful and energised.
