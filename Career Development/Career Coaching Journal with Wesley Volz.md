@@ -31,7 +31,7 @@ Managers who I have developed a trusting relationship have provided me honest fe
 # Best, Base & Worst Cases
 - The foundation of all civilisation governance has been capitalism since a "proxy" for "value transfer" at scale was invented (e.g. feathers, sea shells, coins, dollar, e-dollar, BTC, stablecoins, RWA tokenisation)
 - AI is a GENERAL-PURPOSE technology + PROFIT POSSIBILITY = AI eventually will disrupt ALL industries in some way, shape or form.  It will progressively remove legacy "frictions", commoditising products/services/labour (premiums will no longer be defensible)
-- Labour markets will be restructured into a “barbell economy” of labour
+- A job is actually a bundle of tasks. Each task category has different automation potential. Labour markets will be restructured into a “barbell economy” of labour
 - The world will face a K shape economy (AI empowered/human-central vs AI disabled/human-non-central)
 
 ---
@@ -58,15 +58,6 @@ Human service / execution  ██████████
 | 3. Process Transformation      | "Can AI redesign this workflow?"                         | Workflow automation              |
 | 4. Operating Model Reinvention | "Should this department even exist in its current form?" | AI-native business architecture  |
 | 5. Business Model Reinvention  | "What business should we become?"                        | New products, new revenue models |
-
----
-
-A job is actually a bundle of tasks.\
-Each task category has different automation potential.\
-1. Routine Cognitive
-2. Non-Routine Cognitive
-3. Routine Manual
-4. Non-Routine Manual
 
 ---
 
