@@ -29,7 +29,7 @@ Managers who I have developed a trusting relationship have provided me honest fe
 ---
 
 # Best, Base & Worst Cases
-- The foundation of all civilisation governance is capitalism.
+- The foundation of all civilisation governance has been capitalism since a "proxy" for "value transfer" at scale was invented (e.g. feathers, sea shells, coins, dollar, e-dollar, BTC, stablecoins, RWA tokenisation)
 - AI is a GENERAL-PURPOSE technology + PROFIT POSSIBILITY = AI eventually will disrupt ALL industries in some way, shape or form.  It will progressively remove legacy "frictions", commoditising products/services/labour (premiums will no longer be defensible)
 - Labour markets will be restructured into a “barbell economy” of labour
 - The world will face a K shape economy (AI empowered/human-central vs AI disabled/human-non-central)
@@ -85,4 +85,283 @@ Enterprise Reinvention
 └── Customer Experience
 ```
 
- 
+ ---
+
+ # The Four Major Task Categories
+
+Economists often group tasks into four categories.
+
+```text
+1. Routine Cognitive
+2. Non-Routine Cognitive
+3. Routine Manual
+4. Non-Routine Manual
+```
+
+Each category has **different automation potential**.
+
+---
+
+# 1. Routine Cognitive Tasks
+
+These involve **structured thinking with clear rules**.
+
+Examples:
+
+* data analysis
+* bookkeeping
+* tax preparation
+* document summarization
+* report generation
+* standard programming
+
+Characteristics:
+
+```text
+structured
+repeatable
+rules-based
+pattern-driven
+```
+
+These tasks are **highly automatable by AI**.
+
+This is where the biggest disruption is occurring.
+
+---
+
+# 2. Non-Routine Cognitive Tasks
+
+These involve **open-ended thinking**.
+
+Examples:
+
+* strategy
+* scientific discovery
+* product vision
+* entrepreneurship
+* complex negotiations
+* original research
+
+Characteristics:
+
+```text
+ambiguous
+creative
+requires judgement
+requires problem framing
+```
+
+AI can **assist** with these tasks but struggles to fully automate them.
+
+Humans remain central here.
+
+---
+
+# 3. Routine Manual Tasks
+
+These involve **physical actions that follow predictable procedures**.
+
+Examples:
+
+* assembly line work
+* warehouse sorting
+* packaging
+* repetitive manufacturing
+
+These tasks have been increasingly automated by:
+
+* robotics
+* industrial machines
+* automated factories
+
+This transformation began during the **Industrial Revolution** and continues today.
+
+---
+
+# 4. Non-Routine Manual Tasks
+
+These require **physical dexterity and adaptation to complex environments**.
+
+Examples:
+
+* plumbing
+* electrical work
+* construction
+* nursing
+* caregiving
+* hospitality
+
+Characteristics:
+
+```text
+physical
+context-dependent
+environmentally variable
+human interaction
+```
+
+These tasks remain **hard to automate**, especially in unstructured environments.
+
+---
+
+# Visualizing the Automation Landscape
+
+Economists often represent it like this:
+
+```text
+                 Cognitive
+              ┌───────────────┐
+              │               │
+              │ Non-Routine   │
+              │ Cognitive     │  (Harder to automate)
+              │               │
+Manual ───────┼───────────────┼──────
+              │               │
+              │ Routine       │
+              │ Cognitive     │  (AI automation zone)
+              │               │
+              └───────────────┘
+```
+
+And on the manual side:
+
+```text
+Routine Manual → robotics automation
+
+Non-Routine Manual → still human dominated
+```
+
+---
+
+# Why the Middle of the Economy Gets Compressed
+
+Historically, many **middle-class jobs** involved:
+
+```text
+routine cognitive tasks
+```
+
+Examples:
+
+* accounting
+* administrative work
+* legal research
+* financial analysis
+* standard software development
+
+AI excels at these tasks.
+
+So the labour market shifts toward:
+
+```text
+Non-routine cognitive (top)
++
+Non-routine manual (bottom)
+```
+
+This is the **barbell effect**.
+
+---
+
+# What Skills Become More Valuable
+
+As routine tasks disappear, the valuable skills shift toward:
+
+### Problem framing
+
+Defining the right problem to solve.
+
+### Judgement
+
+Choosing among competing options under uncertainty.
+
+### Systems thinking
+
+Understanding complex interactions.
+
+### Creativity
+
+Generating new ideas and approaches.
+
+### Human interaction
+
+Building trust, negotiating, persuading.
+
+---
+
+# The Important Insight
+
+Automation does **not eliminate jobs directly**.
+
+It changes the **task composition of jobs**.
+
+Example:
+
+A lawyer in 2035 may spend less time on:
+
+```text
+document review
+legal research
+contract drafting
+```
+
+And more time on:
+
+```text
+strategy
+negotiation
+client advising
+case framing
+```
+
+The profession evolves.
+
+---
+
+# Why This Links to the “Judgement Economy”
+
+When AI automates **routine cognition**, the remaining scarce human capabilities move toward:
+
+```text
+judgement
+perspective
+direction
+sensemaking
+```
+
+Which explains why we discussed new product categories like:
+
+* judgement systems
+* perspective products
+* sensemaking platforms
+
+Those products support the **tasks AI cannot easily replace**.
+
+---
+
+# The Deep Structural Shift
+
+Historically:
+
+```text
+machines automated muscle
+```
+
+Now:
+
+```text
+AI automates routine thinking
+```
+
+Which pushes human work toward:
+
+```text
+judgement
+creativity
+direction
+complex interaction
+```
+
+This is why many economists believe the **structure of knowledge work is about to change dramatically.**
+
