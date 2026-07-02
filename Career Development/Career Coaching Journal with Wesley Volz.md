@@ -28,7 +28,13 @@ Managers who I have developed a trusting relationship have provided me honest fe
 
 ---
 
-# Best, Base & Worst Cases
+# Takeaways from suggested readings
+- NYT article #1, AGREE: We are making assumptions on anthropomorphized A.I. which can backfire on productivity
+- NYT article #2: AGREE: AI investments are sucking all liquidity from financial markets
+
+---
+
+# Chunks for "Homework" and "Best, Base & Worst Case exercises"
 - The foundation of all civilisation governance has been capitalism since a "proxy" for "value transfer" at scale was invented (e.g. feathers, sea shells, coins, dollar, e-dollar, BTC, stablecoins, RWA tokenisation)
 - AI is a GENERAL-PURPOSE technology + PROFIT POSSIBILITY = AI eventually will disrupt ALL industries in some way, shape or form.  It will progressively remove legacy "frictions", commoditising products/services/labour (premiums will no longer be defensible)
 - A job is actually a bundle of tasks. Each task category has different automation potential. Labour markets will be restructured into a “barbell economy” of labour
