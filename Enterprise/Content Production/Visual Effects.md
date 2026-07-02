@@ -1,0 +1,2 @@
+- me interviewing me
+- recording myself seating on the floor for a ground-level shot
