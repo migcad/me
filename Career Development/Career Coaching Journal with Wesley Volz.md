@@ -30,7 +30,7 @@ Managers who I have developed a trusting relationship have provided me honest fe
 
 # Takeaways from suggested readings
 - NYT article #1, AGREE: We are making assumptions on anthropomorphized A.I. which can backfire on productivity
-- NYT article #2: AGREE: AI investments are sucking all liquidity from financial markets
+- NYT article #2: DISAGREE: AI investments are sucking in financial & non-financial markets capital which can lead to a recession if benefits realisation takes time. (MIGUEL: we stopped being in a fundamentals economy in 2007, currency hyper-debasement & financial market manipulation is the new norm)
 
 ---
 
