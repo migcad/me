@@ -26,6 +26,10 @@ I have always attracted peers to reach out for help/tutoring\
 I have always been pulled out to contribute to "big picture" analysis\
 Managers who I have developed a trusting relationship have provided me honest feedback re: my 70% is people's 100%, so to be faster & less perfeccionist ; I have above average ability to be clear & find the why)
 
+---
+
+# Best, Base & Worst Cases
+- K shape economy
 
 
 
