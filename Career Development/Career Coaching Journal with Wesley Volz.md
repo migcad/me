@@ -32,7 +32,21 @@ Managers who I have developed a trusting relationship have provided me honest fe
 - The foundation of all civilisation governance is capitalism.
 - AI is a GENERAL-PURPOSE technology + PROFIT POSSIBILITY = AI eventually will disrupt ALL industries in some way, shape or form.  It will progressively remove legacy "frictions", commoditising products/services/labour (premiums will no longer be defensible)
 - Labour markets will be restructured into a “barbell economy” of labour
-- The world will face a K shape economy (AI empowered vs AI disabled)
+- The world will face a K shape economy (AI empowered/human-central vs AI disabled/human-non-central)
+
+```none
+High-value strategic work  ██████████
+                           │
+                           │
+                           │
+Automated / compressed     │
+middle cognitive work      │
+                           │
+                           │
+                           │
+Human service / execution  ██████████
+```
+
 
 | Stage                          | Dominant Question                                        | Typical AI Investment            |
 | ------------------------------ | -------------------------------------------------------- | -------------------------------- |
@@ -42,18 +56,26 @@ Managers who I have developed a trusting relationship have provided me honest fe
 | 4. Operating Model Reinvention | "Should this department even exist in its current form?" | AI-native business architecture  |
 | 5. Business Model Reinvention  | "What business should we become?"                        | New products, new revenue models |
 
-Enterprise Reinvention\
-│\
-├── Strategy\
-├── Business Architecture\
-├── Enterprise Operating Model\
-├── AI Systems\
-├── Human-AI Organisation Design\
-├── Governance\
-├── Change Transformation\
-├── Economics\
-├── Knowledge Systems\
-└── Customer Experience\
+A job is actually a bundle of tasks.
+Each task category has different automation potential.
+1. Routine Cognitive
+2. Non-Routine Cognitive
+3. Routine Manual
+4. Non-Routine Manual
 
+```none
+Enterprise Reinvention
+│
+├── Strategy
+├── Business Architecture
+├── Enterprise Operating Model
+├── AI Systems
+├── Human-AI Organisation Design
+├── Governance
+├── Change Transformation
+├── Economics
+├── Knowledge Systems
+└── Customer Experience
+```
 
  
