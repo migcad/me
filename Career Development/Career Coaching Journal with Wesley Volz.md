@@ -31,6 +31,14 @@ Managers who I have developed a trusting relationship have provided me honest fe
 # Best, Base & Worst Cases
 - K shape economy
 
+| Stage                          | Dominant Question                                        | Typical AI Investment            |
+| ------------------------------ | -------------------------------------------------------- | -------------------------------- |
+| 1. Experimentation             | "Can AI do this?"                                        | Pilots                           |
+| 2. Productivity                | "Can AI make existing work faster?"                      | Copilots, assistants             |
+| 3. Process Transformation      | "Can AI redesign this workflow?"                         | Workflow automation              |
+| 4. Operating Model Reinvention | "Should this department even exist in its current form?" | AI-native business architecture  |
+| 5. Business Model Reinvention  | "What business should we become?"                        | New products, new revenue models |
+
 
 
 
