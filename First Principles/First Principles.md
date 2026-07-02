@@ -1,0 +1,1 @@
+- power law = 80/20 rule
