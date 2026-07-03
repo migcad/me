@@ -2,7 +2,7 @@
 
 ---
 
-## Learn to feel and focus on what helps you
+## Learn to re-engineer your Auto-Pilot Mind
 
 ### Learn to shift feeling in a way that helps you
 Learn to be in a grateful state every day (or constructive emotional state).  If you feel gratitude, you can't feel angry or sad at the same time.
@@ -26,18 +26,12 @@ Integrate gratitude into your environment to trigger the habit automatically:
 - Focus on what you have (instead of on absence ; it doesn't matter how much you can have, if you focus on absence you will never be resourcefull and find fullfilment)
 - Focus on what you can control (instead of what you cannot control because literally, you cannot control it and the anxiety is overwhelming ; yes, some things you can influence)
 
+### Learn to go through the uncomfortable to get to the amazing
+
+#### Learn to not negotiate with yourself
+- Discipline/Train your Regularly undertake an uncomfortable constructive actvity so this behaviour shows up in every other part of your life. Make it become a routine. The activity should feel intense and not good doing it, but it should feel amazing once you have finished it (e.g. cold plounge, training early)
+
 ---
-
-## Learn to re-engineer your Auto-Pilot Mind
-
-## Learn to go through the uncomfortable to get to the amazing
-
----
-
-
-
-#### Discipline/Train your mind to not negotiate with yourself
-- Regularly undertake an uncomfortable constructive actvity so this behaviour shows up in every other part of your life. Make it become a routine. The activity should feel intense and not good doing it, but it should feel amazing once you have finished it (e.g. cold plounge, training early)
 
 ## Learn to 
 Being able to continuously improve your:
