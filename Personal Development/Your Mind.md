@@ -23,8 +23,8 @@ Integrate gratitude into your environment to trigger the habit automatically:
 
 ### Learn to shift focusing on what helps you
 - Focus on the present to enjoy and on the future to build (instead of being stuck in the past which you cannot change)
-- Focus on what you have (instead of on absence ; it doesn't matter how much you can have, if you focus on absence you will never find fullfilment)
-- Focus on what you can control (instead of what you cannot control because it's overwhelming ; some thing you can influence)
+- Focus on what you have (instead of on absence ; it doesn't matter how much you can have, if you focus on absence you will never be resourcefull and find fullfilment)
+- Focus on what you can control (instead of what you cannot control because literally, you cannot control it and the anxiety is overwhelming ; yes, some things you can influence)
 
 ---
 
