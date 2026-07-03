@@ -1,5 +1,10 @@
 # Learn to increase your probabilities of success
 
+
+WHERE WOULD I PUT?
+- undertaking experiences that alter your biochemistry?
+- stacking experiences that alter your biochemistry?
+
 ---
 
 ## Learn to re-engineer your habits of your Auto-Pilot Mind
