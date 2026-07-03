@@ -4,11 +4,12 @@
 
 ## Learn to feel and focus on what helps you
 
-### Learn shifting to feel in a way that helps you
-- Shift to a constructive emotional state 
+### Learn to shift feeling in a way that helps you
+Learn to be in a grateful state every day (or constructive emotional state).  If you feel gratitude, you can't feel angry or sad at the same time.
+- Describe a specific moment in sensory detail. Specificity forces the brain to relive the positive emotion, releasing dopamine and serotonin more effectively than general lists. Describing deeply one or two items is often more impactful than rushing through ten.
 
-### Learn shifting to focus on what helps you
-- Focus on the present to enjoy and on the future to build (instead of the past which you cannot change)
+### Learn to shift focusing on what helps you
+- Focus on the present to enjoy and on the future to build (instead of being stuck in the past which you cannot change)
 - Focus on what you have (instead of on absence ; it doesn't matter how much you can have, if you focus on absence you will never find fullfilment)
 - Focus on what you can control (instead of what you cannot control because it's overwhelming ; some thing you can influence)
 
