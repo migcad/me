@@ -5,6 +5,7 @@ WHERE WOULD I PUT?
 - Interview with Tony Robins and 2 friends... You have to prove me first
 - undertaking experiences that alter your biochemistry?
 - stacking experiences that alter your biochemistry?
+- show me your friends, I'll show you your future
 
 ---
 
