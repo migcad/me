@@ -6,7 +6,7 @@ WHERE WOULD I PUT?
 - undertaking experiences that alter your biochemistry?
 - stacking experiences that alter your biochemistry?
 - show me your friends, I'll show you your future
-- constantly break glass ceilings and recreate themselves, change the people they surround themselves with vs stay with the day 1s
+- constantly break through glass ceilings and recreate themselves, change the people they surround themselves with vs stay with the day 1s
 
 ---
 
