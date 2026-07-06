@@ -13,9 +13,11 @@ You don't need to solve your entire life's purpose today.
 You only need to choose something meaningful enough to pursue now.
 Purpose creation accumulates trough continuous action.
 
+"You will find a way"
+
 ---
 
-## Learn to re-engineer your habits of your Auto-Pilot Mind
+## Learn to re-engineer your mind habits of your Auto-Pilot Mind
 
 ### Learn how to train your mind to shift feeling into a way that helps you
 Learn to be in a grateful state every day (or constructive emotional state).  If you feel gratitude, you can't feel angry or sad at the same time.
