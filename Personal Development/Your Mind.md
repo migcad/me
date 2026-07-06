@@ -9,6 +9,9 @@ WHERE WOULD I PUT?
 - different glass ceilings you have to break through and recreate yourself over and over in order to continue to elevate and grow, your immediate circle has to constantly change vs stay loyal with the day 1s
 - obssessed and hard to kill (Goggins: like Rocky)
 - "The purpose of life is having a life of purpose" Simon Squibb
+You don't need to solve your entire life's purpose today.
+You only need to choose something meaningful enough to pursue now.
+Purpose creation accumulates trough continuous action.
 
 ---
 
