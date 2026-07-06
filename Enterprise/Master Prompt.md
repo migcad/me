@@ -1,0 +1,1 @@
+- It won't be a matter of wanting to adapt, you will need to adapt
