@@ -8,12 +8,20 @@ WHERE WOULD I PUT?
 - show me your friends, I'll show you your future
 - different glass ceilings you have to break through and recreate yourself over and over in order to continue to elevate and grow, your immediate circle has to constantly change vs stay loyal with the day 1s
 - obssessed and hard to kill (Goggins: like Rocky)
+
+
+"You will find a way"
+
+---
+
+# The purpose of life
 - "The purpose of life is having a life of purpose" Simon Squibb
 You don't need to solve your entire life's purpose today.
 You only need to choose something meaningful enough to pursue now.
-Purpose creation accumulates trough continuous action.
+The creation of purpose accumulates trough continuous action.
 
-"You will find a way"
+- "The purpose of life is grinding" Mat Ishbia
+
 
 ---
 
