@@ -24,7 +24,7 @@ The creation of purpose accumulates trough continuous action.
 Constantly competing, either you win and you want to do it again, or you lose and get up asking what you need to do better to not lose again
 
 - "The purpose of life is to always be challenged. You are happy when you achieve a challenge" John Caudwell
-Set up challenges that seem impossible but attract you to still do them
+Set up challenges that seem impossible but attract you to still do them to achieve anywhere near them
 
 ---
 
