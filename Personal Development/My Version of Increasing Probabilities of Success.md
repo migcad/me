@@ -62,6 +62,8 @@ Integrate gratitude into your environment to trigger the habit automatically:
 
 #### Implement ownership and urgency
 
+#### Implement easy and fast withou comoromisong accuracy for important things
+
 ---
 
 ## Learn to 
