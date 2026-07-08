@@ -21,7 +21,7 @@ You only need to choose something meaningful enough to pursue now.
 The creation of purpose accumulates trough continuous action.
 
 - "The purpose of life is grinding" Mat Ishbia
-
+Constantly competing, either you win and you want to do it again, or you lose and get up asking what you need to do better to not lose again
 
 ---
 
