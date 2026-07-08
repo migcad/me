@@ -60,6 +60,8 @@ Integrate gratitude into your environment to trigger the habit automatically:
 #### Compete with yourself to be a better version of your self
 - Your goals should scare you, if they don't, they are not goals
 
+#### Implement ownership and urgency
+
 ---
 
 ## Learn to 
