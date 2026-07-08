@@ -54,6 +54,9 @@ Integrate gratitude into your environment to trigger the habit automatically:
 #### Do not negotiate with yourself
 - Regularly undertake an uncomfortable constructive actvity so this behaviour shows up in every other part of your life. Make it become a routine. The activity should feel intense and not good doing it, but it should feel amazing once you have finished it (e.g. cold plounge, training early)
 
+#### Live within your means
+- Always re-invest and only payout yourself when you have an explosion period
+
 ---
 
 ## Learn to 
