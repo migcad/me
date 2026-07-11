@@ -1,1 +1,2 @@
-- It won't be a matter of wanting to adapt, you will need to adapt
+- It won't be a matter if you want to adapt, you will need to adapt
+
