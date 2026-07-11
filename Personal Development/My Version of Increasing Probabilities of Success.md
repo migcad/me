@@ -13,8 +13,8 @@ WHERE WOULD I PUT?
 
 # The genesis
 
-"You will find a way"
-"You will figure it out"
+- "You will find a way"
+- "You will figure it out"
 
 ---
 
