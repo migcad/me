@@ -1,5 +1,7 @@
 # Sizing is an art, not a science
-Technical analysis is false precision, instead use + macro analysis + fundamentals analysis + sentiment analysis + long-timeframe technical analysis + regret minimisation 
+- Technical analysis is false precision
+- It's impossible to exactly time the bottom
+- Use: + macro analysis + fundamentals analysis + sentiment analysis + long-timeframe technical analysis + regret minimisation 
 - 1/3 pool of immediate capital - buy immediately when you think it's "the bottom". This will avoid the scenario of waiting for a lower entry that never materialises
 - 1/3 pool of DCA capital - mathematicaly you average the bottom over when you think it's "the bottom" period
 - 1/3 pool of oportunitistic capital - buy dips over thr DCA period
