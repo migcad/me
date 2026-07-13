@@ -1,4 +1,6 @@
 # Currency Stengths
+Countries tend to downgrade in tier level with time due to debasement.
+Countries like UAE and Singapore have been able to upgrade in tier level by implementing low taxation regulation, free-trade policies, rule of law, security, liberal culture, ambition and vision
 
 ## Tier 1 $USD
 - US has the world reserve currency
@@ -19,3 +21,4 @@
 ## Tier 4 currencies
 - currencies are collapsing against the dollar
 - countries are just waiting for international aid 
+
