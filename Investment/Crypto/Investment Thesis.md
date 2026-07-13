@@ -27,13 +27,13 @@
 - The regulatory environment has radically changed in the last 10 years
 - People are now open to park their money in investment alternatives for the next 10 years
 
-### 2026 is the most bullish moment in crypto
+### 2026 is the most bullish moment in crypto because every structural tailwind is aligned
 - Every corporate institution will be in crypto by 2027
 - Banks are going to be a catalyst for crypto
+- People have lost trust in institutions. Governments have lost trust in each other
+- Gen X crypto native are now being put into management positions, replacing baby-boomers
 
 
-
-###
 
 ## Product-market fits in crypto
 - stablecoins
