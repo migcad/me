@@ -33,7 +33,7 @@
 - People have lost trust in institutions. Governments have lost trust in each other
 - Gen X crypto native are now being put into management positions, replacing baby-boomers
 - We are still in the phase of society agreeing crypto has value, next phase will be accepting it as a payment method at scale
-
+- Crypto group funded to win the US 2024 elections, presidential and 34 congressional candidates
 
 
 ## Product-market fits in crypto
