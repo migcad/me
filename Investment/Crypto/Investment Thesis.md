@@ -32,6 +32,7 @@
 - Banks are going to be a catalyst for crypto
 - People have lost trust in institutions. Governments have lost trust in each other
 - Gen X crypto native are now being put into management positions, replacing baby-boomers
+- We are still in the phase of society agreeing crypto has value, next phase will be accepting it as a payment method at scale
 
 
 
