@@ -10,13 +10,16 @@
 ### Media
 - As the internet arrived, people started experimenting with user-generated content, then the media landscape completely transformed.
 
+### Big Tech
+- In 200 years of the NYSE, never before 2020 there was a company valued at $1 T, today there are several companies over this valuation
+
 ## Fundamental #2 - Crypto is going to eat capital markets
 
 ### Financial Services
 - This is the largest holdout that hasn't been transformed by the internet
 - Public blockchain has now created the insfrastructure for the internet to flood into financial services to transform it like what happened to e-commerce.
 
-### Crypto is growing
+### Crypto market cap is growing
 - The Total Addressable Market is dollars looking for a home, it's progressively growing. Gold's market cap was only $3 T ten years ago, it did a 10x in 10 years
 - The share of crypto in capital markets is growing because now it's an investement alternative
 
@@ -26,7 +29,8 @@
 
 ### 2026 is the most bullish moment in crypto
 - Every corporate institution will be in crypto by 2027
-- Bank are going to be a catalyst for crypto
+- Banks are going to be a catalyst for crypto
+
 
 
 ###
