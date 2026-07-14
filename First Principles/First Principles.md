@@ -20,7 +20,7 @@
 - wisdom/judgement help
 ```
 
-# Distribution
+# Cause and effect
 - power law = 80/20 rule (80% is caused by 20% of the inputs, and 20% is caused by the 80% inputs)
 
 # Life balance
