@@ -8,11 +8,15 @@
 ```none
 - financial scarcity
 (desirable land, gold, Bitcoin, bluechip L1s blockchains)
+
 - desirable minerals
+
 - influence over a community
 (personal brand: people do business with people they like and trust)
+
 - control over a community
 (exclusive rights, regulatory power, monopoly, distribution at scale)
+
 - wisdom/judgement help
 ```
 
