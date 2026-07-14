@@ -13,6 +13,7 @@ Countries like UAE and Singapore have been able to upgrade in tier level by impl
 - These debase a bit faster than the $USD
 - Countries don't have the ability to create more of their own currency, so they get into currrency/debt crisis
 - Countries looks stable politicaly but suffer from economic stagnation
+- Mostly Western world
 
 ## Tier 3 currencies loosing around 10% to the $USD per year
 - experience around 14% debasement per year
