@@ -3,7 +3,8 @@
 
 # Valuable scarcity
 - Scarcity is valuable when AI & physical robots cannot create more of it
-- You want to own for the next 10 years something that someone richer and smarter than you will want to buy of you
+- You want to own for the next 10 years something that "afluent intelligent cultured people
+- Bernard Arnault test: someone richer and smarter than you will want to buy of you
 ```none
 - financial scarcity (desirable land, gold, Bitcoin, bluechip L1s blockchains)
 - desirable minerals
