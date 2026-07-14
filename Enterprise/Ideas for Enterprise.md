@@ -1,5 +1,7 @@
 FIRST PRINCIPLES
 
+human curation (trust) mashed with an existing profitable business where customer experience is not great (e.g. fragmented, too wide, low quality)
+
 capabilities
 touch grass (train attentional flexibility)
 The brain begins noticing only evidence supporting catastrophe.
