@@ -1,5 +1,6 @@
-# Why Visual Storytelling works
+# Story Telling
 
+## Why Visual Storytelling works
 It's not just seeing > it's feeling seen.\
 That's when the visual stops being mine and starts belonging to the room.​
 
