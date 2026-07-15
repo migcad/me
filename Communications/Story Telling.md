@@ -18,5 +18,6 @@ This is for the people who care about the room and who believe every voice in it
 ## Strategic Visualising
 
 - https://www.indidust.com
+
 Turns complex ideas into hand-drawn visuals that give whole rooms a shared language > something people can see themselves in and carry forward
 
