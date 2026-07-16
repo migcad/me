@@ -884,6 +884,155 @@ Evaluation Objective
 
 ---
 
-*(Continuation follows with remaining dimensions' examples, taxonomy assessment, and summary.)*
+# Dimension 3 — Learning Paradigm Examples
+
+---
+
+# Symbolic Specification
+
+| Leaf Node                | Examples                                                                                                                                                 |
+| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Rule-based Systems       | Business rules engines; tax calculation systems; eligibility assessment systems; workflow automation systems; compliance checking systems                |
+| Logic-based Systems      | Automated theorem proving; legal reasoning systems; mathematical proof systems; expert diagnosis systems; knowledge reasoning engines                    |
+| Constraint-based Systems | Scheduling systems; configuration systems; engineering design systems; resource allocation systems; puzzle-solving systems                               |
+| Expert Systems           | Medical diagnosis systems; financial advisory systems; industrial troubleshooting systems; agricultural advisory systems; geological exploration systems |
+
+---
+
+# Data-driven Learning
+
+| Leaf Node                  | Examples                                                                                                                                                                    |
+| -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Supervised Learning        | Image classification models; fraud detection models; medical diagnosis models; sentiment analysis models; credit scoring models                                             |
+| Unsupervised Learning      | Customer segmentation; anomaly discovery; topic modelling; market pattern discovery; biological clustering                                                                  |
+| Semi-supervised Learning   | Medical image analysis with limited labels; speech recognition with partial labels; document classification with few annotations; satellite analysis; industrial inspection |
+| Self-supervised Learning   | Large language model pretraining; image representation learning; speech representation learning; protein structure learning; robotics perception learning                   |
+| Weakly Supervised Learning | Image classification from captions; medical diagnosis from reports; web data classification; noisy sentiment analysis; large-scale content moderation                       |
+| Active Learning            | Medical annotation systems; scientific data labelling; autonomous driving data selection; industrial inspection improvement; research dataset construction                  |
+| Curriculum Learning        | Progressive robot training; educational AI systems; game-playing agents; language learning systems; increasingly complex simulation training                                |
+| Online Learning            | Adaptive recommendation systems; fraud detection systems; real-time trading systems; streaming analytics; personalised assistants                                           |
+
+---
+
+# Reinforcement Learning
+
+| Leaf Node                           | Examples                                                                                                                                                                  |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Model-free Reinforcement Learning   | Game-playing agents; robotic manipulation; recommendation optimisation; autonomous control systems; resource allocation agents                                            |
+| Model-based Reinforcement Learning  | Autonomous navigation; industrial process control; robotics simulation; strategic planning agents; supply chain optimisation                                              |
+| Offline Reinforcement Learning      | Healthcare treatment optimisation; historical trading optimisation; industrial process improvement; recommendation policy learning; autonomous driving from recorded data |
+| Online Reinforcement Learning       | Adaptive traffic control; real-time game agents; dynamic pricing systems; robotic learning; personalised recommendation systems                                           |
+| Multi-agent Reinforcement Learning  | Competitive games; traffic coordination; robot teams; market simulations; distributed resource management                                                                 |
+| Hierarchical Reinforcement Learning | Long-horizon robotics; strategic game agents; complex workflow automation; household robots; multi-stage planning systems                                                 |
+
+---
+
+# Hybrid Learning
+
+| Leaf Node                    | Examples                                                                                                                                            |
+| ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Neuro-symbolic Learning      | Medical reasoning systems; autonomous scientific assistants; enterprise AI reasoning systems; mathematical problem solving; legal reasoning systems |
+| Human-in-the-loop Learning   | Content moderation systems; medical diagnosis assistance; autonomous vehicle training; AI hiring systems; scientific annotation systems             |
+| Retrieval-Augmented Learning | Enterprise knowledge systems; research assistants; technical support systems; legal AI systems; educational AI systems                              |
+| Program-guided Learning      | Code generation systems; mathematical solvers; scientific computing systems; robotic programming systems; automated software engineering            |
+
+---
+
+# Dimension 4 — Knowledge Representation Examples
+
+| Leaf Node              | Examples                                                                                                                                                   |
+| ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Rules                  | Tax rules; insurance policies; manufacturing procedures; compliance requirements; business approval workflows                                              |
+| Logic                  | Mathematical proofs; legal reasoning; formal verification; knowledge inference; diagnostic reasoning                                                       |
+| Ontologies             | Medical knowledge models; enterprise information models; scientific classification systems; cybersecurity knowledge models; product classification systems |
+| Knowledge Graphs       | Search engines; enterprise knowledge bases; recommendation systems; drug discovery systems; fraud investigation systems                                    |
+| Bayesian Networks      | Medical diagnosis; weather prediction; risk assessment; fault diagnosis; decision analysis                                                                 |
+| Decision Trees         | Credit scoring; medical triage; customer segmentation; quality inspection; loan approval                                                                   |
+| Embeddings             | Language models; image similarity systems; recommendation engines; semantic search; molecule analysis                                                      |
+| Latent Representations | Generative models; image compression; anomaly detection; representation learning; speech recognition                                                       |
+| Vector Representations | Document retrieval; image search; recommendation systems; chatbot memory; semantic matching                                                                |
+| State Representations  | Robotics systems; autonomous vehicles; game agents; industrial monitoring; simulation systems                                                              |
+| Programs               | Automated coding systems; symbolic reasoning systems; workflow automation; mathematical software; computer agents                                          |
+| External Memory        | AI assistants with memory; retrieval systems; autonomous agents; enterprise assistants; research systems                                                   |
+| Hybrid Representations | Large language models with retrieval; neuro-symbolic systems; knowledge-based assistants; scientific AI systems; autonomous agents                         |
+
+---
+
+# Dimension 5 — Computational Architecture Examples
+
+---
+
+# Symbolic Architectures
+
+| Leaf Node          | Examples                                                                                                                         |
+| ------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
+| Production Systems | Expert systems; business automation engines; rule-based diagnosis; industrial decision systems; configuration engines            |
+| Logic Engines      | Automated theorem proving; legal reasoning engines; formal verification tools; knowledge inference systems; mathematical solvers |
+| Constraint Solvers | Scheduling optimisation; engineering design; resource allocation; configuration management; puzzle solving                       |
+
+---
+
+# Statistical Architectures
+
+| Leaf Node            | Examples                                                                                                               |
+| -------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| Linear Models        | Sales prediction; economic modelling; demand estimation; medical risk scoring; marketing analysis                      |
+| Bayesian Models      | Medical diagnosis; financial risk modelling; scientific inference; reliability analysis; forecasting systems           |
+| Gaussian Processes   | Sensor modelling; robotics localisation; scientific modelling; optimisation systems; environmental prediction          |
+| Hidden Markov Models | Speech recognition; biological sequence analysis; activity recognition; financial regime detection; language modelling |
+
+---
+
+# Tree-based Architectures
+
+| Leaf Node         | Examples                                                                                                                  |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| Decision Trees    | Loan approval; medical diagnosis; customer classification; fraud detection; business rules modelling                      |
+| Random Forests    | Credit risk prediction; image classification; ecological modelling; fraud detection; customer analytics                   |
+| Gradient Boosting | Search ranking; financial prediction; customer churn prediction; tabular machine learning; recommendation systems         |
+| Isolation Forests | Cybersecurity anomaly detection; industrial monitoring; fraud detection; sensor anomaly detection; operational monitoring |
+
+---
+
+# Kernel Architectures
+
+| Leaf Node               | Examples                                                                                                      |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------- |
+| Support Vector Machines | Text classification; image recognition; biological classification; handwriting recognition; anomaly detection |
+| Kernel Regression       | Function approximation; scientific modelling; forecasting; environmental modelling; engineering prediction    |
+
+---
+
+# Neural Architectures
+
+| Leaf Node                       | Examples                                                                                                                |
+| ------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Feedforward Neural Networks     | Financial prediction; classification systems; pattern recognition; forecasting models; recommendation systems           |
+| Convolutional Neural Networks   | Image recognition; medical imaging; autonomous driving vision; satellite analysis; manufacturing inspection             |
+| Recurrent Neural Networks       | Speech recognition; time-series forecasting; language modelling; sequential prediction; sensor analysis                 |
+| Long Short-Term Memory Networks | Financial forecasting; speech processing; machine monitoring; text generation; activity recognition                     |
+| Gated Recurrent Units           | Translation systems; sequence modelling; time-series prediction; chatbot systems; sensor analysis                       |
+| Graph Neural Networks           | Drug discovery; social network analysis; recommendation systems; fraud detection; molecular modelling                   |
+| Transformers                    | Large language models; vision transformers; code generation; protein modelling; multimodal AI systems                   |
+| Autoencoders                    | Data compression; anomaly detection; representation learning; image reconstruction; noise removal                       |
+| Generative Adversarial Networks | Synthetic image generation; style transfer; data augmentation; image enhancement; synthetic datasets                    |
+| Diffusion Models                | Image generation; video generation; molecule generation; audio synthesis; scientific simulation                         |
+| Mixture-of-Experts              | Large language models; multilingual systems; specialised AI systems; scalable recommendation systems; multimodal models |
+| Memory-Augmented Networks       | Question answering systems; AI assistants; navigation systems; reasoning systems; long-context models                   |
+
+---
+
+# Hybrid Architectures
+
+| Leaf Node                         | Examples                                                                                                                   |
+| --------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Neuro-symbolic Architectures      | Scientific reasoning systems; medical AI; legal AI; mathematical AI; enterprise reasoning systems                          |
+| Retrieval-Augmented Architectures | ChatGPT-style assistants; enterprise search assistants; research assistants; documentation assistants; customer support AI |
+| Tool-Using Architectures          | AI coding agents; research agents; workflow automation agents; financial assistants; business analysts                     |
+| Multi-model Architectures         | Autonomous vehicles; multimodal assistants; medical diagnosis systems; robotics systems; industrial AI platforms           |
+
+---
+
+*(Continuation follows with Dimensions 6–12 examples, Assessment Against Taxonomy Design Principles, and Summary.)*
 
 
