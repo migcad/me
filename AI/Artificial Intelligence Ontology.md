@@ -687,5 +687,203 @@ Evaluation Objective
 
 ---
 
-*(Continuation follows in the next message with the remaining taxonomy examples, assessment against principles, and summary.)*
+### State Estimation
+
+| Leaf Node                    | Examples                                                                                                                                                             |
+| ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| System State Estimation      | Power grid state estimation; aircraft navigation state estimation; robotic system state estimation; industrial process monitoring; financial system state estimation |
+| Environment State Estimation | Autonomous driving environment modelling; weather environment estimation; agricultural environment monitoring; marine environment monitoring; smart city sensing     |
+| Hidden State Estimation      | Hidden Markov model inference; user intent estimation; disease progression estimation; machine degradation estimation; economic cycle estimation                     |
+
+---
+
+### Outcome Prediction
+
+| Leaf Node            | Examples                                                                                                                                                         |
+| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Behaviour Prediction | Customer purchase behaviour prediction; pedestrian movement prediction; employee attrition prediction; user interaction prediction; social behaviour prediction  |
+| Event Prediction     | Equipment failure prediction; disease outbreak prediction; criminal activity prediction; market event prediction; supply disruption prediction                   |
+| Outcome Prediction   | Treatment outcome prediction; investment outcome prediction; education outcome prediction; legal case outcome prediction; business initiative outcome prediction |
+
+---
+
+# Generation
+
+## Creation
+
+| Leaf Node        | Examples                                                                                                                                               |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Text Generation  | Writing articles; generating business reports; creating marketing copy; producing fictional stories; drafting legal documents                          |
+| Image Generation | Creating artwork; generating product concepts; producing architectural designs; creating educational illustrations; generating synthetic photographs   |
+| Audio Generation | Generating speech; creating music; producing sound effects; voice cloning; generating audiobook narration                                              |
+| Video Generation | Creating advertisements; generating training videos; producing synthetic scenes; creating animations; generating cinematic content                     |
+| Code Generation  | Producing software functions; generating application prototypes; creating database queries; writing automation scripts; generating infrastructure code |
+| 3D Generation    | Creating game assets; generating architectural models; producing industrial designs; creating virtual environments; generating medical models          |
+
+---
+
+## Completion
+
+| Leaf Node        | Examples                                                                                                                            |
+| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| Text Completion  | Email autocomplete; document completion; sentence prediction; code comments completion; search query completion                     |
+| Image Completion | Removing image gaps; filling missing photo regions; restoring damaged photographs; completing sketches; expanding image boundaries  |
+| Code Completion  | Programming autocomplete; generating missing functions; completing algorithms; suggesting API usage; completing configuration files |
+
+---
+
+## Transformation
+
+| Leaf Node                     | Examples                                                                                                                                                              |
+| ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Style Transformation          | Converting photographs into artistic styles; changing writing tone; transforming music genres; redesigning product aesthetics; converting architectural styles        |
+| Format Transformation         | Converting documents into presentations; converting text into tables; converting reports into summaries; converting data formats; converting files between structures |
+| Representation Transformation | Text-to-image conversion; speech-to-text conversion; image-to-description conversion; graph-to-text conversion; molecular representation conversion                   |
+
+---
+
+## Translation
+
+| Leaf Node            | Examples                                                                                                                                 |
+| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Language Translation | English-to-Spanish translation; Japanese-to-English translation; real-time speech translation; document translation; website translation |
+| Code Translation     | Python-to-Java conversion; SQL migration; programming language conversion; framework migration; legacy code modernization                |
+| Modality Translation | Image caption generation; text-to-speech conversion; speech-to-text conversion; video summarization; diagram-to-text conversion          |
+
+---
+
+## Restoration
+
+| Leaf Node          | Examples                                                                                                                                       |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| Noise Removal      | Audio noise reduction; image denoising; sensor noise filtering; communication signal cleaning; astronomical image enhancement                  |
+| Image Restoration  | Old photograph restoration; medical image enhancement; satellite image restoration; damaged artwork recovery; low-resolution image improvement |
+| Signal Restoration | Radio signal recovery; biomedical signal cleaning; industrial sensor correction; seismic signal restoration; telecommunications recovery       |
+
+---
+
+## Simulation
+
+| Leaf Node                        | Examples                                                                                                                                            |
+| -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Physical Simulation              | Climate simulation; fluid dynamics simulation; vehicle crash simulation; chemical process simulation; structural engineering simulation             |
+| Synthetic Environment Generation | Virtual training environments; autonomous driving simulations; robotics testing environments; military simulations; gaming environments             |
+| Scenario Generation              | Business scenario modelling; emergency response scenarios; financial stress testing; cybersecurity attack scenarios; operational planning scenarios |
+
+---
+
+# Decision
+
+## Planning
+
+| Leaf Node          | Examples                                                                                                                            |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
+| Path Planning      | Robot navigation; autonomous vehicle routing; drone flight planning; warehouse robot movement; spacecraft trajectory planning       |
+| Task Planning      | Household robot task execution; manufacturing workflows; AI assistant workflows; laboratory automation; business process automation |
+| Strategic Planning | Corporate strategy analysis; military planning; investment planning; supply chain strategy; public policy planning                  |
+
+---
+
+## Optimization
+
+| Leaf Node                 | Examples                                                                                                                                 |
+| ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Mathematical Optimization | Portfolio optimization; engineering design optimization; mathematical scheduling; parameter optimization; statistical model tuning       |
+| Resource Optimization     | Cloud resource allocation; workforce allocation; energy optimization; logistics optimization; hospital resource allocation               |
+| Constraint Optimization   | Manufacturing constraints; regulatory compliance optimization; vehicle routing constraints; production planning; engineering constraints |
+
+---
+
+## Scheduling
+
+| Leaf Node             | Examples                                                                                                                           |
+| --------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| Workforce Scheduling  | Employee shift planning; hospital staffing; airline crew scheduling; retail staffing; emergency response scheduling                |
+| Production Scheduling | Factory production planning; semiconductor manufacturing; assembly line scheduling; printing operations; pharmaceutical production |
+| Project Scheduling    | Construction projects; software development planning; research programs; infrastructure projects; event planning                   |
+
+---
+
+## Policy Selection
+
+| Leaf Node           | Examples                                                                                                                                              |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Action Selection    | Game-playing agents; robotic actions; autonomous driving decisions; recommendation actions; trading decisions                                         |
+| Strategy Selection  | Marketing strategy selection; investment strategy selection; negotiation strategy selection; operational strategy selection; business growth strategy |
+| Behaviour Selection | Social robot behaviour; autonomous vehicle behaviour; conversational agent responses; virtual character behaviour; adaptive learning behaviour        |
+
+---
+
+## Control
+
+| Leaf Node                  | Examples                                                                                                     |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| Robotic Control            | Industrial robot movement; surgical robot control; warehouse robots; robotic arms; humanoid robots           |
+| Autonomous Vehicle Control | Self-driving cars; autonomous drones; autonomous ships; agricultural vehicles; delivery robots               |
+| Industrial Control         | Chemical plants; power generation systems; manufacturing equipment; water treatment systems; smart factories |
+
+---
+
+# Interaction
+
+| Leaf Node             | Examples                                                                                                                                        |
+| --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Question Answering    | Medical question answering; legal question answering; customer support systems; educational assistants; enterprise knowledge assistants         |
+| Dialogue              | Chatbots; virtual assistants; customer service agents; social companions; negotiation assistants                                                |
+| Instruction Following | AI coding assistants; personal productivity assistants; robotic instruction systems; document processing agents; educational tutors             |
+| Tutoring              | Mathematics tutors; language learning assistants; programming tutors; professional training systems; personalised education systems             |
+| Negotiation           | Procurement negotiation agents; sales negotiation agents; contract negotiation systems; diplomatic simulation agents; game negotiation agents   |
+| Collaboration         | Human-AI design teams; scientific research assistants; software development teams; business planning assistants; creative collaboration systems |
+| Assistance            | Scheduling assistants; writing assistants; research assistants; administrative assistants; accessibility assistants                             |
+| Autonomous Agency     | Autonomous research agents; AI software engineers; trading agents; robotic agents; enterprise workflow agents                                   |
+
+---
+
+# Dimension 2 — Data Relationship Objective Examples
+
+---
+
+# Discriminative
+
+| Leaf Node      | Examples                                                                                                                          |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| Classification | Medical diagnosis; spam detection; image recognition; credit approval; sentiment classification                                   |
+| Regression     | House price prediction; sales forecasting; energy prediction; temperature estimation; financial valuation                         |
+| Detection      | Fraud detection; object detection; cybersecurity intrusion detection; manufacturing defect detection; disease detection           |
+| Ranking        | Search ranking; recommendation ranking; candidate ranking; document ranking; product ranking                                      |
+| Retrieval      | Web search; enterprise search; scientific literature retrieval; image search; code search                                         |
+| Verification   | Identity verification; signature verification; document verification; biometric authentication; content authenticity verification |
+| Segmentation   | Medical image segmentation; satellite segmentation; road segmentation; customer segmentation; object segmentation                 |
+| Prediction     | Weather prediction; customer behaviour prediction; machine failure prediction; market prediction; health outcome prediction       |
+
+---
+
+# Generative
+
+| Leaf Node             | Examples                                                                                                                           |
+| --------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| Data Synthesis        | Synthetic medical data; synthetic financial data; synthetic training datasets; artificial satellite imagery; simulated sensor data |
+| Content Creation      | Articles; images; music; videos; software code; marketing materials                                                                |
+| Data Completion       | Missing database values; incomplete images; unfinished text; missing sensor data; incomplete scientific datasets                   |
+| Data Transformation   | Style transfer; summarization; format conversion; data augmentation; document rewriting                                            |
+| Data Translation      | Language translation; speech conversion; image captioning; code translation; modality conversion                                   |
+| Data Restoration      | Photo restoration; audio repair; document reconstruction; signal recovery; image enhancement                                       |
+| Simulation Generation | Weather scenarios; financial simulations; virtual environments; engineering simulations; emergency scenarios                       |
+
+---
+
+# Hybrid
+
+| Leaf Node                      | Examples                                                                                                                                                    |
+| ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Retrieval-Augmented Generation | Enterprise knowledge assistants; medical literature assistants; legal research assistants; customer support AI; technical documentation assistants          |
+| Generative Decision Systems    | Autonomous trading systems; AI planning agents; business strategy agents; robotic decision systems; logistics optimisation agents                           |
+| Predictive Simulation Systems  | Digital twins; climate modelling; industrial simulation; economic forecasting models; healthcare simulation                                                 |
+| Generative Agents              | Autonomous researchers; AI software engineers; virtual employees; game characters; educational agents                                                       |
+| Autonomous Generative Systems  | Self-improving software systems; autonomous scientific discovery systems; automated content businesses; robotic creation systems; autonomous design systems |
+
+---
+
+*(Continuation follows with remaining dimensions' examples, taxonomy assessment, and summary.)*
+
 
