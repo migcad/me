@@ -17,6 +17,7 @@ Business people focus on setting objectives. Engineers focus on architecture, pr
 
 uncommon
 intentional
+life = the infinite game of crossing doors
 
 It is not anti-tech, it is about finding balance in this new landscape.
 Also, the acknowledgement that you are not alone with these challenges – everyone is feeling it!
