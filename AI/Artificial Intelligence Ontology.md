@@ -707,9 +707,9 @@ Evaluation Objective
 
 ---
 
-# Generation
+## Generation
 
-## Creation
+### Creation
 
 | Leaf Node        | Examples                                                                                                                                               |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -722,7 +722,7 @@ Evaluation Objective
 
 ---
 
-## Completion
+### Completion
 
 | Leaf Node        | Examples                                                                                                                            |
 | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
@@ -732,7 +732,7 @@ Evaluation Objective
 
 ---
 
-## Transformation
+### Transformation
 
 | Leaf Node                     | Examples                                                                                                                                                              |
 | ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -742,7 +742,7 @@ Evaluation Objective
 
 ---
 
-## Translation
+### Translation
 
 | Leaf Node            | Examples                                                                                                                                 |
 | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -752,7 +752,7 @@ Evaluation Objective
 
 ---
 
-## Restoration
+### Restoration
 
 | Leaf Node          | Examples                                                                                                                                       |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -762,7 +762,7 @@ Evaluation Objective
 
 ---
 
-## Simulation
+### Simulation
 
 | Leaf Node                        | Examples                                                                                                                                            |
 | -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -772,9 +772,9 @@ Evaluation Objective
 
 ---
 
-# Decision
+## Decision
 
-## Planning
+### Planning
 
 | Leaf Node          | Examples                                                                                                                            |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
@@ -784,7 +784,7 @@ Evaluation Objective
 
 ---
 
-## Optimization
+### Optimization
 
 | Leaf Node                 | Examples                                                                                                                                 |
 | ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -794,7 +794,7 @@ Evaluation Objective
 
 ---
 
-## Scheduling
+### Scheduling
 
 | Leaf Node             | Examples                                                                                                                           |
 | --------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
@@ -804,7 +804,7 @@ Evaluation Objective
 
 ---
 
-## Policy Selection
+### Policy Selection
 
 | Leaf Node           | Examples                                                                                                                                              |
 | ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -814,7 +814,7 @@ Evaluation Objective
 
 ---
 
-## Control
+### Control
 
 | Leaf Node                  | Examples                                                                                                     |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------ |
@@ -824,7 +824,7 @@ Evaluation Objective
 
 ---
 
-# Interaction
+## Interaction
 
 | Leaf Node             | Examples                                                                                                                                        |
 | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -839,11 +839,11 @@ Evaluation Objective
 
 ---
 
-# Dimension 2 — Data Relationship Objective Examples
+## Dimension 2 — Data Relationship Objective Examples
 
 ---
 
-# Discriminative
+## Discriminative
 
 | Leaf Node      | Examples                                                                                                                          |
 | -------------- | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -858,7 +858,7 @@ Evaluation Objective
 
 ---
 
-# Generative
+## Generative
 
 | Leaf Node             | Examples                                                                                                                           |
 | --------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
@@ -872,7 +872,7 @@ Evaluation Objective
 
 ---
 
-# Hybrid
+## Hybrid
 
 | Leaf Node                      | Examples                                                                                                                                                    |
 | ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -884,11 +884,11 @@ Evaluation Objective
 
 ---
 
-# Dimension 3 — Learning Paradigm Examples
+## Dimension 3 — Learning Paradigm Examples
 
 ---
 
-# Symbolic Specification
+## Symbolic Specification
 
 | Leaf Node                | Examples                                                                                                                                                 |
 | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -899,7 +899,7 @@ Evaluation Objective
 
 ---
 
-# Data-driven Learning
+## Data-driven Learning
 
 | Leaf Node                  | Examples                                                                                                                                                                    |
 | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -914,7 +914,7 @@ Evaluation Objective
 
 ---
 
-# Reinforcement Learning
+## Reinforcement Learning
 
 | Leaf Node                           | Examples                                                                                                                                                                  |
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -927,7 +927,7 @@ Evaluation Objective
 
 ---
 
-# Hybrid Learning
+## Hybrid Learning
 
 | Leaf Node                    | Examples                                                                                                                                            |
 | ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -938,7 +938,7 @@ Evaluation Objective
 
 ---
 
-# Dimension 4 — Knowledge Representation Examples
+## Dimension 4 — Knowledge Representation Examples
 
 | Leaf Node              | Examples                                                                                                                                                   |
 | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -958,11 +958,11 @@ Evaluation Objective
 
 ---
 
-# Dimension 5 — Computational Architecture Examples
+## Dimension 5 — Computational Architecture Examples
 
 ---
 
-# Symbolic Architectures
+## Symbolic Architectures
 
 | Leaf Node          | Examples                                                                                                                         |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -972,7 +972,7 @@ Evaluation Objective
 
 ---
 
-# Statistical Architectures
+## Statistical Architectures
 
 | Leaf Node            | Examples                                                                                                               |
 | -------------------- | ---------------------------------------------------------------------------------------------------------------------- |
@@ -983,7 +983,7 @@ Evaluation Objective
 
 ---
 
-# Tree-based Architectures
+## Tree-based Architectures
 
 | Leaf Node         | Examples                                                                                                                  |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------- |
@@ -994,7 +994,7 @@ Evaluation Objective
 
 ---
 
-# Kernel Architectures
+## Kernel Architectures
 
 | Leaf Node               | Examples                                                                                                      |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------- |
@@ -1003,7 +1003,7 @@ Evaluation Objective
 
 ---
 
-# Neural Architectures
+## Neural Architectures
 
 | Leaf Node                       | Examples                                                                                                                |
 | ------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
@@ -1022,7 +1022,7 @@ Evaluation Objective
 
 ---
 
-# Hybrid Architectures
+## Hybrid Architectures
 
 | Leaf Node                         | Examples                                                                                                                   |
 | --------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
@@ -1033,6 +1033,146 @@ Evaluation Objective
 
 ---
 
-*(Continuation follows with Dimensions 6–12 examples, Assessment Against Taxonomy Design Principles, and Summary.)*
+## Dimension 6 — Interaction Pattern Examples
 
+| Leaf Node                | Examples                                                                                                                                      |
+| ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| Batch Processing         | Overnight financial reporting; batch image classification; monthly business forecasting; offline scientific analysis; periodic fraud analysis |
+| Request-response         | Search engines; customer service chatbots; API-based AI services; document analysis systems; code generation assistants                       |
+| Streaming                | Real-time speech transcription; financial market monitoring; live translation; security camera analysis; sensor analytics                     |
+| Conversational           | Virtual assistants; customer support agents; educational tutors; healthcare assistants; personal productivity assistants                      |
+| Event-driven             | Fraud alerts; equipment failure alerts; cybersecurity monitoring; emergency detection systems; workflow triggers                              |
+| Continuous Control       | Autonomous vehicles; industrial robots; drones; smart grid control; robotic manipulation systems                                              |
+| Multi-agent Coordination | Robot fleets; AI negotiation systems; simulated societies; autonomous logistics systems; collaborative AI teams                               |
+| Autonomous Execution     | AI software engineers; automated research agents; trading agents; workflow automation agents; robotic agents                                  |
+
+---
+
+## Dimension 7 — Input Modality Examples
+
+| Leaf Node         | Examples                                                                                                                  |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| Natural Language  | User questions; customer emails; legal documents; research papers; conversation messages                                  |
+| Structured Text   | XML documents; JSON records; database schemas; structured reports; configuration files                                    |
+| Source Code       | Python programs; Java applications; infrastructure scripts; SQL queries; smart contracts                                  |
+| Tables            | Financial spreadsheets; customer databases; experimental datasets; inventory tables; healthcare records                   |
+| Databases         | Enterprise databases; knowledge repositories; transactional systems; customer relationship systems; operational databases |
+| Knowledge Graphs  | Enterprise knowledge graphs; biomedical knowledge graphs; social graphs; product graphs; scientific graphs                |
+| Numerical Data    | Sensor measurements; financial values; engineering parameters; statistical datasets; scientific measurements              |
+| Time Series       | Stock prices; weather measurements; machine telemetry; energy consumption; physiological signals                          |
+| Images            | Photographs; medical scans; satellite imagery; industrial inspection images; artwork                                      |
+| Video             | Security footage; autonomous driving video; sports footage; educational videos; surveillance recordings                   |
+| Audio             | Speech recordings; music; environmental sounds; call centre recordings; machine sounds                                    |
+| Sensor Data       | Temperature sensors; accelerometers; IoT devices; industrial sensors; wearable devices                                    |
+| Geospatial Data   | Satellite maps; GPS coordinates; geographic information systems; weather maps; urban planning data                        |
+| Graph Data        | Social networks; molecular structures; transportation networks; supply chains; communication networks                     |
+| Molecular Data    | Protein sequences; chemical structures; genomic information; pharmaceutical compounds; biological interactions            |
+| 3D Geometry       | CAD models; medical scans; game environments; architectural models; industrial components                                 |
+| Simulation States | Digital twins; robotics environments; climate models; economic simulations; virtual worlds                                |
+| Multimodal Data   | Text and images; speech and video; sensor fusion; medical multimodal records; autonomous vehicle perception               |
+
+---
+
+## Dimension 8 — Output Modality Examples
+
+| Leaf Node             | Examples                                                                                                               |
+| --------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| Labels                | Disease category; spam/not spam result; object class; customer segment; sentiment label                                |
+| Scores                | Risk score; recommendation score; similarity score; confidence score; quality score                                    |
+| Probabilities         | Weather probability; fraud probability; diagnosis probability; prediction confidence; market probability               |
+| Rankings              | Search results; recommended products; candidate ranking; document ranking; content ranking                             |
+| Decisions             | Loan approval; treatment recommendation; business decision; security response; investment decision                     |
+| Plans                 | Travel itinerary; project plan; robot task plan; manufacturing schedule; strategic plan                                |
+| Actions               | Robot movement; automated purchase; software deployment; trading action; workflow execution                            |
+| Control Signals       | Motor commands; vehicle steering commands; industrial control settings; drone navigation signals; robotic arm movement |
+| Natural Language      | Reports; answers; summaries; explanations; conversations                                                               |
+| Structured Data       | JSON responses; database records; analytical tables; metadata extraction; structured reports                           |
+| Source Code           | Software functions; scripts; algorithms; infrastructure templates; database queries                                    |
+| Images                | Generated artwork; medical images; product designs; architectural concepts; synthetic photographs                      |
+| Audio                 | Generated speech; music; sound effects; voice assistants; audio restoration                                            |
+| Video                 | Training videos; simulations; advertisements; synthetic scenes; animations                                             |
+| 3D Models             | Virtual objects; architectural models; engineering designs; game assets; medical models                                |
+| Scientific Structures | Protein structures; chemical molecules; mathematical objects; biological models; engineering designs                   |
+| Simulations           | Climate models; economic models; operational simulations; virtual environments; training scenarios                     |
+| Multimodal Outputs    | AI assistants; autonomous vehicles; robotics systems; educational platforms; scientific discovery systems              |
+
+---
+
+## Dimension 9 — Temporal Behaviour Examples
+
+| Leaf Node      | Examples                                                                                                                    |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| Stateless      | Image classification API; translation API; document summarisation service; one-time analysis tool; calculator assistant     |
+| Stateful       | Chat assistants with memory; customer relationship systems; personal assistants; adaptive tutoring systems; workflow agents |
+| Episodic       | Game agents; robotic learning episodes; training simulations; reinforcement learning environments; experimental systems     |
+| Continuous     | Autonomous vehicles; industrial controllers; smart home systems; robotics platforms; monitoring systems                     |
+| Real-time      | Emergency detection; autonomous driving; speech recognition; financial trading; industrial control                          |
+| Near Real-time | Fraud monitoring; recommendation updates; analytics dashboards; operational monitoring; customer engagement systems         |
+| Offline        | Research analysis; historical data mining; model training; scientific computing; strategic planning                         |
+| Streaming      | Live transcription; sensor processing; video analytics; market monitoring; network monitoring                               |
+| Adaptive       | Personalised education; recommendation systems; adaptive assistants; autonomous systems; evolving agents                    |
+
+---
+
+## Dimension 10 — Degree of Autonomy Examples
+
+| Leaf Node                | Examples                                                                                                                                                             |
+| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Advisory                 | Financial advice systems; medical decision support; legal research assistants; business analytics systems; engineering recommendation tools                          |
+| Decision Support         | Clinical diagnosis assistants; hiring analytics; investment analysis; risk assessment systems; operational dashboards                                                |
+| Human-approved Execution | AI-generated software requiring approval; AI-assisted trading; AI-generated contracts; automated workflows requiring review; robotic commands requiring confirmation |
+| Supervised Automation    | Warehouse robots; content moderation systems; automated customer service; manufacturing inspection; document processing                                              |
+| Conditional Autonomy     | Autonomous vehicles under restrictions; drones with supervision; AI research assistants; automated business processes; smart infrastructure                          |
+| High Autonomy            | Self-driving systems in controlled environments; autonomous logistics systems; robotic factories; AI agents completing workflows; autonomous monitoring systems      |
+| Fully Autonomous         | Fully autonomous research systems; independent robotic explorers; self-operating industrial systems; autonomous software agents; autonomous AI ecosystems            |
+
+---
+
+## Dimension 11 — Deployment Topology Examples
+
+| Leaf Node            | Examples                                                                                                                                      |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| Embedded Device      | Smart sensors; medical implants; vehicle controllers; industrial controllers; consumer electronics                                            |
+| Edge Device          | Security cameras; factory devices; retail analytics systems; autonomous drones; smart city sensors                                            |
+| Mobile Device        | Smartphone assistants; mobile translation apps; mobile photography AI; personal productivity AI; mobile health applications                   |
+| Desktop Environment  | Local AI assistants; development tools; creative software AI; personal knowledge systems; offline AI applications                             |
+| On-premises Server   | Banking AI systems; government systems; enterprise analytics; private research systems; internal automation platforms                         |
+| Private Cloud        | Enterprise AI platforms; healthcare AI systems; financial services AI; corporate assistants; internal data platforms                          |
+| Public Cloud         | AI APIs; consumer AI applications; SaaS AI platforms; cloud machine learning services; public AI assistants                                   |
+| Hybrid Cloud         | Enterprise AI architectures; regulated industry systems; multi-cloud applications; distributed analytics platforms; corporate AI platforms    |
+| Distributed Cluster  | Large language model training; scientific computing; simulation platforms; recommendation systems; large-scale analytics                      |
+| Federated Deployment | Privacy-preserving healthcare AI; mobile keyboard prediction; financial fraud detection; collaborative research; distributed learning systems |
+
+---
+
+## Dimension 12 — Evaluation Objective Examples
+
+---
+
+## Predictive Performance
+
+| Leaf Node   | Examples                                                                                                                                          |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Accuracy    | Image recognition accuracy; medical diagnosis accuracy; classification accuracy; speech recognition accuracy; document categorisation accuracy    |
+| Precision   | Fraud detection precision; spam filtering precision; security alert precision; search result precision; medical test precision                    |
+| Recall      | Disease screening recall; cybersecurity detection recall; search recall; safety incident detection recall; defect detection recall                |
+| F-score     | Information retrieval evaluation; classification benchmarking; medical model evaluation; fraud detection evaluation; document analysis evaluation |
+| Calibration | Probability prediction calibration; medical risk models; financial forecasting; weather probabilities; AI confidence estimation                   |
+| Robustness  | Adversarial testing; environmental variation testing; data shift evaluation; reliability testing; stress testing                                  |
+
+---
+
+## Generative Quality
+
+| Leaf Node   | Examples                                                                                                                |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Fidelity    | Realistic image generation; accurate text generation; synthetic data realism; voice similarity; video realism           |
+| Diversity   | Image variation generation; creative writing diversity; molecule generation; scenario generation; design exploration    |
+| Consistency | Character consistency; factual consistency; style consistency; logical consistency; multi-turn conversation consistency |
+| Novelty     | New product designs; scientific hypotheses; creative artwork; molecular discovery; architectural concepts               |
+| Coherence   | Long-form writing quality; generated explanations; story structure; dialogue quality; generated plans                   |
+
+---
+
+*(Continuation follows with remaining evaluation examples, Assessment Against Taxonomy Design Principles, and Summary.)*
 
