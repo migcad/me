@@ -358,6 +358,8 @@ Computational Architecture
       └── Multi-model Architectures
 ```
 
+---
+
 # Dimension 6 — Interaction Pattern
 
 ## Question answered
