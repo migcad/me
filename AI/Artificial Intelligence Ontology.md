@@ -1266,9 +1266,8 @@ Each AI system can be classified by identifying its position across each indepen
 
 For example:
 
+**Large Language Model Assistant**
 ```text
-Large Language Model Assistant
-
 =
 (
 Interaction,
@@ -1286,9 +1285,8 @@ Generative Quality Evaluation
 )
 ```
 
+**Autonomous Vehicle System**
 ```text
-Autonomous Vehicle System
-
 =
 (
 Decision + Recognition + Prediction,
@@ -1317,9 +1315,8 @@ Safety and Reliability Evaluation
 )
 ```
 
+**Medical Diagnosis AI**
 ```text
-Medical Diagnosis AI
-
 =
 (
 Recognition + Prediction,
