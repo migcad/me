@@ -1174,5 +1174,196 @@ Evaluation Objective
 
 ---
 
-*(Continuation follows with remaining evaluation examples, Assessment Against Taxonomy Design Principles, and Summary.)*
+## Dimension 12 — Evaluation Objective Examples (continued)
+
+---
+
+## Decision Quality
+
+| Leaf Node               | Examples                                                                                                                                                           |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Utility                 | AI investment strategy performance; robotic task success; recommendation usefulness; business optimisation outcomes; healthcare treatment benefit                  |
+| Reward                  | Reinforcement learning game scores; autonomous driving reward functions; robotic learning performance; recommendation engagement; operational optimisation results |
+| Cost                    | Manufacturing cost reduction; logistics cost optimisation; cloud resource savings; energy consumption reduction; business process efficiency                       |
+| Safety                  | Autonomous vehicle safety; medical AI safety; industrial robot safety; cybersecurity response safety; financial risk controls                                      |
+| Constraint Satisfaction | Scheduling compliance; regulatory compliance; engineering requirements; operational limitations; resource allocation constraints                                   |
+
+---
+
+## Operational Performance
+
+| Leaf Node         | Examples                                                                                                                                             |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Latency           | Real-time speech assistants; autonomous vehicle response time; online recommendation systems; financial trading systems; interactive AI applications |
+| Throughput        | Large-scale document processing; search engines; image processing pipelines; recommendation systems; data analytics platforms                        |
+| Scalability       | Global AI assistants; enterprise AI platforms; large recommendation systems; cloud AI services; distributed machine learning systems                 |
+| Availability      | Banking AI systems; healthcare AI platforms; customer service systems; critical infrastructure AI; enterprise automation systems                     |
+| Energy Efficiency | Edge AI devices; mobile AI applications; data centre optimisation; embedded AI systems; sustainable computing systems                                |
+
+---
+
+## Trustworthiness
+
+| Leaf Node      | Examples                                                                                                                                |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| Reliability    | Medical diagnosis systems; autonomous vehicles; industrial automation; financial systems; enterprise AI assistants                      |
+| Explainability | Loan approval systems; medical diagnosis models; legal AI systems; scientific AI systems; regulatory decision systems                   |
+| Fairness       | Hiring systems; lending systems; education systems; healthcare systems; recommendation platforms                                        |
+| Privacy        | Federated learning systems; healthcare AI; personal assistants; financial AI; secure analytics                                          |
+| Security       | Adversarial defence systems; secure AI platforms; cybersecurity AI; model protection systems; access-controlled AI systems              |
+| Auditability   | Government AI systems; financial compliance systems; healthcare AI records; enterprise governance platforms; regulated industry systems |
+
+---
+
+# Assessment Against Taxonomy Design Principles
+
+| Principle              | Assessment | Notes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| ---------------------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Exhaustiveness         | Very High  | The ontology covers the major independent dimensions required to describe an AI system: computational purpose, relationship between input and output, capability acquisition, knowledge representation, computational implementation, interaction behaviour, data types, temporal characteristics, autonomy, deployment, and evaluation. The taxonomy examples expand each leaf node across multiple industries, application domains, and technical contexts.                                                                                                                                                              |
+| Orthogonality          | Very High  | Each dimension answers a different classification question. Computational Objective describes what the system does. Data Relationship Objective describes whether the system discriminates, generates, or combines both behaviours. Learning Paradigm describes how capability is acquired. Computational Architecture describes how computation is implemented. Input and Output Modalities describe information forms. Deployment Topology describes execution environment. Evaluation Objective describes performance criteria. The dimensions do not compete for the same classification space.                        |
+| Ontological Uniformity | Very High  | Each dimension contains concepts belonging to the same ontological category. Computational Objective contains computational functions. Data Relationship Objective contains input-output relationships. Learning Paradigm contains capability acquisition mechanisms. Computational Architecture contains computational mechanisms. Input Modality contains information types. Deployment Topology contains execution locations. Evaluation Objective contains assessment criteria. The taxonomy avoids mixing algorithms, applications, industries, and implementation technologies within the same classification level. |
+| Granularity Balance    | High       | The ontology maintains comparable abstraction levels between sibling concepts. Broad concepts are decomposed only where internal structures are meaningful and commonly recognised. Examples are provided at the leaf level while avoiding unnecessary fragmentation into individual products, vendors, or implementations. The hierarchy balances conceptual coverage with practical usability.                                                                                                                                                                                                                           |
+| Scalability            | Very High  | New AI techniques can be incorporated without restructuring the ontology. New architectures can be added under Computational Architecture. New learning approaches can be added under Learning Paradigm. New modalities can be added under Input or Output Modality. New objectives can be added under Computational Objective. New evaluation methods can be added under Evaluation Objective. The ontology supports future AI developments including autonomous agents, multimodal systems, embodied AI, and emerging computational paradigms.                                                                           |
+
+---
+
+# Summary
+
+This ontology represents Artificial Intelligence as a multidimensional design space.
+
+An AI system can therefore be described as:
+
+```text id="c6mq0v"
+AI System =
+(
+Computational Objective,
+
+Data Relationship Objective,
+
+Learning Paradigm,
+
+Knowledge Representation,
+
+Computational Architecture,
+
+Interaction Pattern,
+
+Input Modality,
+
+Output Modality,
+
+Temporal Behaviour,
+
+Degree of Autonomy,
+
+Deployment Topology,
+
+Evaluation Objective
+)
+```
+
+Each AI system can be classified by identifying its position across each independent dimension.
+
+For example:
+
+```text
+Large Language Model Assistant
+
+=
+(
+Interaction,
+Generative,
+Self-supervised Learning,
+Latent Representation,
+Transformer Architecture,
+Conversational Interaction,
+Natural Language Input,
+Natural Language Output,
+Stateful Behaviour,
+High Autonomy,
+Public Cloud Deployment,
+Generative Quality Evaluation
+)
+```
+
+```text
+Autonomous Vehicle System
+
+=
+(
+Decision + Recognition + Prediction,
+
+Hybrid Discriminative/Generative,
+
+Supervised + Reinforcement Learning,
+
+State Representation,
+
+Transformer + Neural Perception + Control Architecture,
+
+Continuous Control Interaction,
+
+Images + Sensors + Maps Input,
+
+Control Signals Output,
+
+Real-time Continuous Behaviour,
+
+High Autonomy,
+
+Embedded + Edge Deployment,
+
+Safety and Reliability Evaluation
+)
+```
+
+```text
+Medical Diagnosis AI
+
+=
+(
+Recognition + Prediction,
+
+Discriminative,
+
+Supervised Learning,
+
+Knowledge Graph + Statistical Representation,
+
+Neural Network + Bayesian Architecture,
+
+Request-response Interaction,
+
+Medical Images + Patient Data Input,
+
+Diagnosis + Probability Output,
+
+Stateful Clinical Context,
+
+Decision Support Autonomy,
+
+Private Cloud Deployment,
+
+Accuracy + Explainability + Safety Evaluation
+)
+```
+
+The ontology avoids forcing fundamentally different concepts into a single hierarchy.
+
+Instead, it models Artificial Intelligence as a multidimensional system where:
+
+* **Computational Objective** describes the purpose of computation.
+* **Data Relationship Objective** describes the relationship between input and output.
+* **Learning Paradigm** describes how capability is acquired.
+* **Knowledge Representation** describes how information is encoded.
+* **Computational Architecture** describes how inference is performed.
+* **Interaction Pattern** describes how the system communicates and acts.
+* **Input Modality** describes what information the system receives.
+* **Output Modality** describes what information the system produces.
+* **Temporal Behaviour** describes how the system operates over time.
+* **Degree of Autonomy** describes independent operation capability.
+* **Deployment Topology** describes where computation occurs.
+* **Evaluation Objective** describes how success is measured.
+
+This representation provides a scalable framework for classifying existing AI systems and future AI systems without requiring structural redesign as the field evolves.
 
