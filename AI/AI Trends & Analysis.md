@@ -1,3 +1,5 @@
+- In a commoditized environment, surplus doesn’t flow to the worker, it flows to the coordinating layer that determines the logic of the system
+
 - An AI is a new participant being added to the immediate organisation you are a participant of. Conway's law: Organizations which design systems [...] are constrained to produce designs which are copies of the communication structures of these organizations
 
 - The moment you delegate something to an AI, you're also outsouring the control over it.  Instead, use the AI for delegating to it "disposable control" and implementing safe guard rails (e.g. scripting/tooling code base, not productive code base)
