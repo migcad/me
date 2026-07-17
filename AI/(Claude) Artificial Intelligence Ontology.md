@@ -90,22 +90,63 @@ Artificial Intelligence Meta-Ontology
 │   │   |   |   ├── Code Generation
 │   │   |   |   └── 3D Generation
 │   │   │   |
-
-
-
 │   │   │   ├── Completion
+│   │   |   |   ├── Text Completion
+│   │   |   |   ├── Image Completion
+│   │   |   |   └── Code Completion
+│   │   │   |
 │   │   │   ├── Transformation
+│   │   |   |   ├── Style Transformation
+│   │   |   |   ├── Format Transformation
+│   │   |   |   └── Representation Transformation
+│   │   │   |
 │   │   │   ├── Translation
+│   │   |   |   ├── Language Translation
+│   │   |   |   ├── Code Translation
+│   │   |   |   └── Modality Translation
+│   │   │   |
 │   │   │   ├── Restoration
+│   │   |   |   ├── Noise Removal
+│   │   |   |   ├── Image Restoration
+│   │   |   |   └── Signal Restoration
+│   │   │   |
 │   │   │   └── Simulation
+│   │   |       ├── Physical Simulation
+│   │   |       ├── Synthetic Environment Generation
+│   │   |       └── Scenario Generation
 │   │   │
 │   │   ├── Decision
+│   │   │   |
 │   │   │   ├── Planning
+│   │   |   |   ├── Path Planning
+│   │   |   |   ├── Task Planning
+│   │   |   |   └── Strategic Planning
+│   │   │   |
 │   │   │   ├── Optimization
+│   │   |   |   ├── Mathematical Optimization
+│   │   |   |   ├── Resource Optimization
+│   │   |   |   └── Constraint Optimization
+│   │   │   |
 │   │   │   ├── Scheduling
+│   │   |   |   ├── Workforce Scheduling
+│   │   |   |   ├── Production Scheduling
+│   │   |   |   └── Project Scheduling
+│   │   │   |
 │   │   │   ├── Policy Selection
+│   │   |   |   ├── Action Selection
+│   │   |   |   ├── Strategy Selection
+│   │   |   |   └── Behaviour Selection
+│   │   │   |
 │   │   │   └── Control
+│   │   |       ├── Robotic Control
+│   │   |       ├── Autonomous Vehicle Control
+│   │   |       └── Industrial Control
 │   │   │
+
+
+
+
+
 │   │   └── Interaction
 │   │       ├── Question Answering
 │   │       ├── Dialogue
