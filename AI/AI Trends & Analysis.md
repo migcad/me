@@ -8,16 +8,16 @@
 - https://platforms.substack.com/p/the-many-fallacies-of-ai-wont-take \
 Platforms, AI, and the Economics of BigTech
 
-- https://innovatingwithai.com\
+- https://innovatingwithai.com \
 Coaching, community & curriculum to help everyone thrive in our AI‑powered future.
 
-- https://www.emeraldrock.co\
+- https://www.emeraldrock.co 
 (Wes) Wesley Volz. Data and AI are changing how businesses operate and reshaping our careers.\
 It's hard to know what's worth doing, what's hype, and what matters.\
 I make sure you don't have to navigate this alone.
 
-- https://events.humanitix.com/host/mila-guerra\
+- https://events.humanitix.com/host/mila-guerra \
 AI paper reading
 
-- https://www.linkedin.com/in/tyson-brown-208b88b6\
+- https://www.linkedin.com/in/tyson-brown-208b88b6 \
 Tyson Brown. AI in Project Management, Brisbane
