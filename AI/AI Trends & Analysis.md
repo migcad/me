@@ -4,8 +4,8 @@
 
 - The moment you delegate something to an AI, you're also outsouring the control over it.  Instead, use the AI for delegating to it "disposable control" and implementing safe guard rails (e.g. scripting/tooling code base, not productive code base)
 
-- https://platforms.substack.com\
-- https://platforms.substack.com/p/the-many-fallacies-of-ai-wont-take\
+- https://platforms.substack.com \
+- https://platforms.substack.com/p/the-many-fallacies-of-ai-wont-take \
 Platforms, AI, and the Economics of BigTech
 
 - https://innovatingwithai.com\
