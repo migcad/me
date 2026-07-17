@@ -1,3 +1,5 @@
+"Algo mas terrenal"
+
 FIRST PRINCIPLES
 
 human curation (trust) mashed with an existing profitable business where customer experience is not great (e.g. fragmented, too wide, low quality)
