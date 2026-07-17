@@ -7,25 +7,92 @@ Artificial Intelligence Meta-Ontology
 │   ├── Computational Objective
 │   │   │
 │   │   ├── Recognition
+│   │   │   |
 │   │   │   ├── Classification
+│   │   |   |   ├── Binary Classification
+│   │   |   |   ├── Multi-class Classification
+│   │   |   |   └── Multi-label Classification
+│   │   │   |
 │   │   │   ├── Detection
+│   │   |   |   ├── Object Detection
+│   │   |   |   ├── Event Detection
+│   │   |   |   └── Anomaly Detection
+│   │   │   |
 │   │   │   ├── Identification
+│   │   |   |   ├── Entity Identification
+│   │   |   |   ├── Person Identification
+│   │   |   |   └── Pattern Identification
+│   │   │   |
 │   │   │   ├── Verification
+│   │   |   |   ├── Identity Verification
+│   │   |   |   ├── Similarity Verification
+│   │   |   |   └── Authenticity Verification
+│   │   │   |
 │   │   │   ├── Segmentation
+│   │   |   |   ├── Semantic Segmentation
+│   │   |   |   ├── Instance Segmentation
+│   │   |   |   └── Region Segmentation
+│   │   │   |
 │   │   │   ├── Localization
+│   │   |   |   ├── Spatial Localization
+│   │   |   |   ├── Temporal Localization
+│   │   |   |   └── Source Localization
+│   │   │   |
 │   │   │   ├── Tracking
+│   │   |   |   ├── Object Tracking
+│   │   |   |   ├── Motion Tracking
+│   │   |   |   └── State Tracking
+│   │   │   |
 │   │   │   ├── Retrieval
+│   │   |   |   ├── Information Retrieval
+│   │   |   |   ├── Similarity Retrieval
+│   │   |   |   └── Semantic Retrieval
+│   │   │   |
 │   │   │   └── Ranking
+│   │   |       ├── Search Ranking
+│   │   |       ├── Recommendation Ranking
+│   │   |       └── Preference Ranking
 │   │   │
 │   │   ├── Prediction
+│   │   │   |
 │   │   │   ├── Regression
+│   │   |   |   ├── Continuous Value Prediction
+│   │   |   |   ├── Numerical Estimation
+│   │   |   |   └── Function Approximation
+│   │   │   |
 │   │   │   ├── Forecasting
+│   │   |   |   ├── Time-series Forecasting
+│   │   |   |   ├── Demand Forecasting
+│   │   |   |   └── Trend Forecasting
+│   │   │   |
 │   │   │   ├── Probability Estimation
+│   │   |   |   ├── Risk Probability
+│   │   |   |   ├── Confidence Estimation
+│   │   |   |   └── Likelihood Estimation
+│   │   │   |
 │   │   │   ├── State Estimation
+│   │   |   |   ├── System State Estimation
+│   │   |   |   ├── Environment State Estimation
+│   │   |   |   └── Hidden State Estimation
+│   │   │   |
 │   │   │   └── Outcome Prediction
+│   │   |       ├── Behaviour Prediction
+│   │   |       ├── Event Prediction
+│   │   |       └── Outcome Prediction
 │   │   │
 │   │   ├── Generation
+│   │   │   |
 │   │   │   ├── Creation
+│   │   |   |   ├── Text Generation
+│   │   |   |   ├── Image Generation
+│   │   |   |   ├── Audio Generation
+│   │   |   |   ├── Video Generation
+│   │   |   |   ├── Code Generation
+│   │   |   |   └── 3D Generation
+│   │   │   |
+
+
+
 │   │   │   ├── Completion
 │   │   │   ├── Transformation
 │   │   │   ├── Translation
