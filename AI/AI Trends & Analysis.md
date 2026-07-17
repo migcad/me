@@ -1,4 +1,4 @@
-- In a commoditized environment, surplus doesn’t flow to the worker, it flows to the coordinating layer that determines the logic of the system
+- In a commoditized environment, surplus doesn’t flow to the worker, it flows to the coordinating layer that determines the logic of the system. As more value shifts to coordinating work, the workers using these tools become even more interchangeable and commoditized.
 
 - An AI is a new participant being added to the immediate organisation you are a participant of. Conway's law: Organizations which design systems [...] are constrained to produce designs which are copies of the communication structures of these organizations
 
