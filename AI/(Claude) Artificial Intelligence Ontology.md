@@ -142,11 +142,6 @@ Artificial Intelligence Meta-Ontology
 │   │   |       ├── Autonomous Vehicle Control
 │   │   |       └── Industrial Control
 │   │   │
-
-
-
-
-
 │   │   └── Interaction
 │   │       ├── Question Answering
 │   │       ├── Dialogue
@@ -165,15 +160,22 @@ Artificial Intelligence Meta-Ontology
 │   │   │   ├── Detection
 │   │   │   ├── Ranking
 │   │   │   ├── Retrieval
-│   │   │   └── Verification
+│   │   │   ├── Verification
+│   │   │   ├── Segmentation
+│   │   │   └── Prediction
 │   │   │
 │   │   ├── Generative
 │   │   │   ├── Content Generation
 │   │   │   ├── Data Synthesis
-│   │   │   ├── Completion
-│   │   │   ├── Transformation
+│   │   │   ├── Data Completion
+│   │   │   ├── Data Transformation
+│   │   │   ├── Data Translation
+│   │   │   ├── Data Restoration
 │   │   │   └── Simulation Generation
 │   │   │
+
+
+
 │   │   └── Hybrid
 │   │       ├── Retrieval-Augmented Generation
 │   │       ├── Predictive-Generative Systems
