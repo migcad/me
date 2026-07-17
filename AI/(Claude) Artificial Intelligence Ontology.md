@@ -5,6 +5,7 @@ Artificial Intelligence Meta-Ontology
 ├── A. Intrinsic AI Characteristics
 │   │
 │   ├── Computational Objective
+│   |   (What computational function does the AI system perform?)
 │   │   │
 │   │   ├── Recognition
 │   │   │   |
@@ -153,6 +154,7 @@ Artificial Intelligence Meta-Ontology
 │   │       └── Autonomous Agency
 │   │
 │   ├── Data Relationship Objective
+│   |   (What relationship does the AI system establish between input data and output data?)
 │   │   │
 │   │   ├── Discriminative
 │   │   │   ├── Classification
@@ -165,31 +167,56 @@ Artificial Intelligence Meta-Ontology
 │   │   │   └── Prediction
 │   │   │
 │   │   ├── Generative
-│   │   │   ├── Content Generation
 │   │   │   ├── Data Synthesis
+│   │   │   ├── Content Generation
 │   │   │   ├── Data Completion
 │   │   │   ├── Data Transformation
 │   │   │   ├── Data Translation
 │   │   │   ├── Data Restoration
 │   │   │   └── Simulation Generation
 │   │   │
-
-
-
 │   │   └── Hybrid
 │   │       ├── Retrieval-Augmented Generation
+│   │       ├── Generative Decision Systems
 │   │       ├── Predictive-Generative Systems
 │   │       ├── Agentic Systems
 │   │       └── Autonomous Generative Systems
 │   │
 │   ├── Learning Paradigm
+│   |   (How does the AI system acquire capability?)
 │   │   │
 │   │   ├── Symbolic Specification
+│   │   │   ├── Rule-based Systems
+│   │   │   ├── Logic-based Systems
+│   │   │   ├── Constraint-based Systems
+│   │   │   └── Expert Systems
+│   │   │
 │   │   ├── Data-driven Learning
+│   │   │   ├── Supervised Learning
+│   │   │   ├── Unsupervised Learning
+│   │   │   ├── Semi-supervised Learning
+│   │   │   ├── Self-supervised Learning
+│   │   │   ├── Weakly Supervised Learning
+│   │   │   ├── Active Learning
+│   │   │   ├── Curriculum Learning
+│   │   │   └── Online Learning
+│   │   │
 │   │   ├── Reinforcement Learning
+│   │   │   ├── Model-free Reinforcement Learning
+│   │   │   ├── Model-based Reinforcement Learning
+│   │   │   ├── Offline Reinforcement Learning
+│   │   │   ├── Online Reinforcement Learning
+│   │   │   ├── Multi-agent Reinforcement Learning
+│   │   │   └── Hierarchical Reinforcement Learning
+│   │   │
 │   │   └── Hybrid Learning
+│   │       ├── Neuro-symbolic Learning
+│   │       ├── Human-in-the-loop Learning
+│   │       ├── Retrieval-Augmented Learning
+│   │       └── Program-guided Learning
 │   │
-│   ├── Knowledge Representation
+│   ├── Knowledge Representation (REVIEW)
+│   |   (In what structure is knowledge represented?)
 │   │   │
 │   │   ├── Symbolic Representation
 │   │   ├── Statistical Representation
@@ -197,12 +224,52 @@ Artificial Intelligence Meta-Ontology
 │   │   └── Hybrid Representation
 │   │
 │   ├── Computational Architecture
+│   |   (What mechanism performs computation and inference?)
 │   │   │
-│   │   ├── Symbolic Architecture
-│   │   ├── Statistical Architecture
-│   │   ├── Neural Architecture
-│   │   └── Hybrid Architecture
+│   │   ├── Symbolic Architectures
+│   │   │   ├── Production Systems
+│   │   │   ├── Logic Engines
+│   │   │   └── Constraint Solvers
+│   │   │
+│   │   ├── Statistical Architectures
+│   │   │   ├── Linear Models
+│   │   │   ├── Bayesian Models
+│   │   │   ├── Gaussian Processes
+│   │   │   └── Hidden Markov Models
+│   │   │
+│   │   ├── Tree-based Architectures
+│   │   │   ├── Decision Trees
+│   │   │   ├── Random Forests
+│   │   │   ├── Gradient Boosting
+│   │   │   └── Isolation Forests
+│   │   │
+│   │   ├── Kernel Architectures
+│   │   │   ├── Support Vector Machines
+│   │   │   └── Kernel Regression
+│   │   │
+│   │   ├── Neural Architectures
+│   │   │   ├── Feedforward Neural Networks
+│   │   │   ├── Convolutional Neural Networks
+│   │   │   ├── Recurrent Neural Networks
+│   │   │   ├── Long Short-Term Memory Networks
+│   │   │   ├── Gated Recurrent Units
+│   │   │   ├── Graph Neural Networks
+│   │   │   ├── Transformers
+│   │   │   ├── Autoencoders
+│   │   │   ├── Generative Adversarial Networks
+│   │   │   ├── Diffusion Models
+│   │   │   ├── Mixture-of-Experts
+│   │   │   └── Memory-Augmented Networks
+│   │   │
+│   │   └── Hybrid Architectures
+│   │       ├── Neuro-symbolic Architectures
+│   │       ├── Retrieval-Augmented Architectures
+│   │       ├── Tool-Using Architectures
+│   │       └── Multi-model Architectures
 │   │
+
+
+
 │   ├── Interaction Pattern
 │   │   │
 │   │   ├── Batch Interaction
