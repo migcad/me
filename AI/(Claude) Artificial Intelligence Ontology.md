@@ -365,15 +365,27 @@ Artificial Intelligence Meta-Ontology
 │       │   ├── Novelty
 │       │   └── Coherence
 │       │
-
-
-
-
-
 │       ├── Decision Quality
+│       │   ├── Utility
+│       │   ├── Reward
+│       │   ├── Cost
+│       │   ├── Safety
+│       │   └── Constraint Satisfaction
+│       │
 │       ├── Operational Performance
+│       │   ├── Latency
+│       │   ├── Throughput
+│       │   ├── Scalability
+│       │   ├── Availability
+│       │   └── Energy Efficiency
+│       │
 │       └── Trustworthiness
-│
+│           ├── Reliability
+│           ├── Explainability
+│           ├── Fairness
+│           ├── Privacy
+│           ├── Security
+│           └── Auditability
 │
 ├── B. AI System Engineering
 │   │
