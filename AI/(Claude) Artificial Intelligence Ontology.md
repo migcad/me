@@ -267,45 +267,64 @@ Artificial Intelligence Meta-Ontology
 │   │       ├── Tool-Using Architectures
 │   │       └── Multi-model Architectures
 │   │
-
-
-
 │   ├── Interaction Pattern
+│   |   How does the AI system exchange information with external entities?
 │   │   │
-│   │   ├── Batch Interaction
-│   │   ├── Request-response Interaction
-│   │   ├── Streaming Interaction
-│   │   ├── Conversational Interaction
-│   │   ├── Event-driven Interaction
-│   │   ├── Continuous Control Interaction
+│   │   ├── Batch Processing
+│   │   ├── Request-response
+│   │   ├── Streaming
+│   │   ├── Conversational
+│   │   ├── Event-driven
+│   │   ├── Continuous Control
 │   │   ├── Multi-agent Coordination
 │   │   └── Autonomous Execution
 │   │
 │   ├── Input Modality
+│   |   What forms of information are accepted by the AI system?
 │   │   │
-│   │   ├── Text
-│   │   ├── Code
+│   │   ├── Natural Language
+│   │   ├── Structured Text
+│   │   ├── Source Code
+│   │   ├── Tables
+│   │   ├── Databases
+│   │   ├── Knowledge Graphs
+│   │   ├── Numerical Data
+│   │   ├── Time Series
 │   │   ├── Images
 │   │   ├── Video
 │   │   ├── Audio
 │   │   ├── Sensor Data
-│   │   ├── Structured Data
+│   │   ├── Geospatial Data
 │   │   ├── Graph Data
+│   │   ├── Molecular Data
+│   │   ├── 3D Geometry
+│   │   ├── Simulation States
 │   │   └── Multimodal Data
 │   │
 │   ├── Output Modality
+│   |   What forms of information are produced by the AI system?
 │   │   │
-│   │   ├── Classification Output
-│   │   ├── Prediction Output
-│   │   ├── Generated Content
-│   │   ├── Natural Language
-│   │   ├── Code
-│   │   ├── Media
-│   │   ├── Structured Data
+│   │   ├── Labels
+│   │   ├── Scores
+│   │   ├── Probabilities
+│   │   ├── Rankings
 │   │   ├── Decisions
-│   │   └── Actions
+│   │   ├── Plans
+│   │   ├── Actions
+│   │   ├── Control Signals
+│   │   ├── Natural Language
+│   │   ├── Structured Data
+│   │   ├── Source Code
+│   │   ├── Images
+│   │   ├── Audio
+│   │   ├── Video
+│   │   ├── 3D Models
+│   │   ├── Scientific Structures
+│   │   ├── Simulations
+│   │   └── Multimodal Outputs
 │   │
 │   ├── Temporal Behaviour
+│   |   How does computation relate to time?
 │   │   │
 │   │   ├── Stateless
 │   │   ├── Stateful
@@ -315,6 +334,9 @@ Artificial Intelligence Meta-Ontology
 │   │   ├── Offline
 │   │   └── Adaptive
 │   │
+
+
+
 │   ├── Degree of Autonomy
 │   │   │
 │   │   ├── Advisory
