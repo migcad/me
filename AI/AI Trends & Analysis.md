@@ -1,3 +1,5 @@
+- create value that hasn't existed (low commoditisable premium), using an approach that hasn't existed (coordination), using tools that haven't existed (human cognitive augmentation + AI powered tools)
+
 - value capture can easily be decoupled from value creation during periods of system redesign.
 
 - Does AI eat your job?\
