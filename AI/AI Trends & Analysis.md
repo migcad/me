@@ -1,4 +1,4 @@
-- Does AI eat your job?
+- Does AI eat your job?\
 It doesn’t really matter. That’s really the wrong question to be obsessing over.\
 What’s far more important is to determine whether AI gets to eat your skill premium.
 
