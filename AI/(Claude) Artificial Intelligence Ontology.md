@@ -496,7 +496,7 @@ Artificial Intelligence Meta-Ontology
     │   ├── Blockchain-based
     │   └── Decentralised Compute Marketplace
     │
-    ├── Economic Model
+    ├── Economic Model (Monetisation Mechanisms)
     │   │
     │   ├── Subscription
     │   ├── Usage-based
