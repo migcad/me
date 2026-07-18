@@ -331,13 +331,13 @@ Artificial Intelligence Meta-Ontology
 │   │   ├── Episodic
 │   │   ├── Continuous
 │   │   ├── Real-time
+│   │   ├── Near Real-time
 │   │   ├── Offline
+│   │   ├── Streaming
 │   │   └── Adaptive
 │   │
-
-
-
 │   ├── Degree of Autonomy
+│   |   How independently does the AI system operate?
 │   │   │
 │   │   ├── Advisory
 │   │   ├── Decision Support
@@ -348,9 +348,28 @@ Artificial Intelligence Meta-Ontology
 │   │   └── Fully Autonomous
 │   │
 │   └── Evaluation Objective
+│       Against which criteria is AI system performance evaluated?
 │       │
-│       ├── Predictive Quality
+│       ├── Predictive Performance
+│       │   ├── Accuracy
+│       │   ├── Precision
+│       │   ├── Recall
+│       │   ├── F-score
+│       │   ├── Calibration
+│       │   └── Robustness
+│       │
 │       ├── Generative Quality
+│       │   ├── Fidelity
+│       │   ├── Diversity
+│       │   ├── Consistency
+│       │   ├── Novelty
+│       │   └── Coherence
+│       │
+
+
+
+
+
 │       ├── Decision Quality
 │       ├── Operational Performance
 │       └── Trustworthiness
