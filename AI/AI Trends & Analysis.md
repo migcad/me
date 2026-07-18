@@ -6,6 +6,7 @@
 
 - https://platforms.substack.com
 - https://platforms.substack.com/p/the-many-fallacies-of-ai-wont-take \
+- https://platforms.substack.com/p/ai-wont-eat-your-job-but-it-will\
 Platforms, AI, and the Economics of BigTech
 
 - https://innovatingwithai.com \
