@@ -1,3 +1,7 @@
+- Does AI eat your job?
+It doesn’t really matter. That’s really the wrong question to be obsessing over.\
+What’s far more important is to determine whether AI gets to eat your skill premium.
+
 - In a commoditized environment, surplus doesn’t flow to the worker, it flows to the coordinating layer that determines the logic of the system. As more value shifts to coordinating work, the workers using these tools become even more interchangeable and commoditized. The tools are a mechanism for designing better systems. Shifts in advantage are rarely about better tools, they’re about who understands the new logic of coordination first.
 
 - An AI is a new participant being added to the immediate organisation you are a participant of. Conway's law: Organizations which design systems [...] are constrained to produce designs which are copies of the communication structures of these organizations
