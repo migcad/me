@@ -1,6 +1,7 @@
 - Does AI eat your job?\
 It doesn’t really matter. That’s really the wrong question to be obsessing over.\
-What’s far more important is to determine whether AI gets to eat your skill premium.
+What’s far more important is to determine whether AI gets to eat your skill premium.\
+And yet, we remain obsessed with the human-in-the-loop argument.
 
 - In a commoditized environment, surplus doesn’t flow to the worker, it flows to the coordinating layer that determines the logic of the system. As more value shifts to coordinating work, the workers using these tools become even more interchangeable and commoditized. The tools are a mechanism for designing better systems. Shifts in advantage are rarely about better tools, they’re about who understands the new logic of coordination first.
 
