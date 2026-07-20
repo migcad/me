@@ -538,29 +538,33 @@ Artificial Intelligence Meta-Ontology
     │   │
     │   └── Value Control (Value Appropriation)
     │       (Who controls the mechanisms and strategic assets that determine future value capture and influences value distribution via bargaining power?)
-    |       ├── Customer Relationship
-    |       ├── Distribution Channels
-    |       ├── Data Ownership
-    |       ├── Platform Ownership
-    |       ├── Ecosystem Control
-    |       ├── Standards Control
-    |       ├── Intellectual Property
-    |       └── Network Effects
-    |
+    │       │
+    │       ├── Customer Relationship
+    │       ├── Distribution Channels
+    │       ├── Data Ownership
+    │       ├── Platform Ownership
+    │       ├── Ecosystem Control
+    │       ├── Standards Control
+    │       ├── Intellectual Property
+    │       └── Network Effects
+    │
     ├── Work Automation Profile
     │   │
     │   ├── Work Domain
+    │   │   │
     │   │   ├── Physical Work
     │   │   ├── Knowledge Work
     │   │   └── Hybrid Work
     │   │
     │   ├── Task Variability
+    │   │   │
     │   │   ├── Routine
     │   │   ├── Semi-routine
     │   │   ├── Variable
     │   │   └── Novel
     │   │
     │   ├── Cognitive Complexity
+    │   │   │
     │   │   ├── Mechanical
     │   │   ├── Procedural
     │   │   ├── Analytical
@@ -568,6 +572,7 @@ Artificial Intelligence Meta-Ontology
     │   │   └── Strategic
     │   │
     │   ├── Physical Complexity
+    │   │   │
     │   │   ├── Fine Manipulation
     │   │   ├── Heavy Manipulation
     │   │   ├── Locomotion
@@ -575,24 +580,28 @@ Artificial Intelligence Meta-Ontology
     │   │   └── Multi-modal Coordination
     │   │
     │   ├── Environmental Predictability
+    │   │   │
     │   │   ├── Highly Structured
     │   │   ├── Moderately Structured
     │   │   ├── Unstructured
     │   │   └── Adversarial
     │   │
     │   ├── Human Interaction Requirement
+    │   │   │
     │   │   ├── None
     │   │   ├── Occasional
     │   │   ├── Frequent
     │   │   └── Relationship-intensive
     │   │
     │   ├── Decision Criticality
+    │   │   │
     │   │   ├── Low
     │   │   ├── Medium
     │   │   ├── High
     │   │   └── Safety-critical
     │   │
     │   └── Automation Potential
+    │       │
     │       ├── Already Automated
     │       ├── Near-term
     │       ├── Medium-term
