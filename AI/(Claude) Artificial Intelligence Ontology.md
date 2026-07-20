@@ -550,7 +550,7 @@ Artificial Intelligence Meta-Ontology
     │
     ├── Work Automation Profile
     │   │
-    │   ├── Work Domain
+    │   ├── Nature of Work
     │   │   │
     │   │   ├── Physical Work
     │   │   ├── Knowledge Work
@@ -558,8 +558,8 @@ Artificial Intelligence Meta-Ontology
     │   │
     │   ├── Task Variability
     │   │   │
-    │   │   ├── Routine
-    │   │   ├── Semi-routine
+    │   │   ├── Repetitive
+    │   │   ├── Semi-Repetitive
     │   │   ├── Variable
     │   │   └── Novel
     │   │
