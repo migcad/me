@@ -3,6 +3,7 @@
 Artificial Intelligence Meta-Ontology
 │
 ├── A. Intrinsic AI Characteristics
+│   (What is AI computationally?)
 │   │
 │   ├── Computational Objective
 │   |   (What computational function does the AI system perform?)
@@ -268,7 +269,7 @@ Artificial Intelligence Meta-Ontology
 │   │       └── Multi-model Architectures
 │   │
 │   ├── Interaction Pattern
-│   |   How does the AI system exchange information with external entities?
+│   |   (How does the AI system exchange information with external entities?)
 │   │   │
 │   │   ├── Batch Processing
 │   │   ├── Request-response
@@ -280,7 +281,7 @@ Artificial Intelligence Meta-Ontology
 │   │   └── Autonomous Execution
 │   │
 │   ├── Input Modality
-│   |   What forms of information are accepted by the AI system?
+│   |   (What forms of information are accepted by the AI system?)
 │   │   │
 │   │   ├── Natural Language
 │   │   ├── Structured Text
@@ -302,7 +303,7 @@ Artificial Intelligence Meta-Ontology
 │   │   └── Multimodal Data
 │   │
 │   ├── Output Modality
-│   |   What forms of information are produced by the AI system?
+│   |   (What forms of information are produced by the AI system?)
 │   │   │
 │   │   ├── Labels
 │   │   ├── Scores
@@ -324,7 +325,7 @@ Artificial Intelligence Meta-Ontology
 │   │   └── Multimodal Outputs
 │   │
 │   ├── Temporal Behaviour
-│   |   How does computation relate to time?
+│   |   (How does computation relate to time?)
 │   │   │
 │   │   ├── Stateless
 │   │   ├── Stateful
@@ -337,7 +338,7 @@ Artificial Intelligence Meta-Ontology
 │   │   └── Adaptive
 │   │
 │   ├── Degree of Autonomy
-│   |   How independently does the AI system operate?
+│   |   (How independently does the AI system operate?)
 │   │   │
 │   │   ├── Advisory
 │   │   ├── Decision Support
@@ -348,7 +349,7 @@ Artificial Intelligence Meta-Ontology
 │   │   └── Fully Autonomous
 │   │
 │   └── Evaluation Objective
-│       Against which criteria is AI system performance evaluated?
+│       (Against which criteria is AI system performance evaluated?)
 │       │
 │       ├── Predictive Performance
 │       │   ├── Accuracy
@@ -388,6 +389,7 @@ Artificial Intelligence Meta-Ontology
 │           └── Auditability
 │
 ├── B. AI System Engineering
+│   (How is AI built and operated?)
 │   │
 │   ├── Knowledge Supply Architecture
 │   │   │
@@ -457,6 +459,7 @@ Artificial Intelligence Meta-Ontology
 │
 │
 └── C. AI Ecosystem
+    (How are AI products and organisations structured?)
     │
     ├── Development Ecosystem
     │   │
