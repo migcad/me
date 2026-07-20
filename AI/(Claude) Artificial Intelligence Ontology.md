@@ -216,13 +216,39 @@ Artificial Intelligence Meta-Ontology
 │   │       ├── Retrieval-Augmented Learning
 │   │       └── Program-guided Learning
 │   │
-│   ├── Knowledge Representation (REVIEW)
-│   |   (In what structure is knowledge represented?)
+│   ├── Knowledge Representation
+│   |   (In what formalism is knowledge represented?)
 │   │   │
 │   │   ├── Symbolic Representation
+│   │   │   ├── Rules
+│   │   │   ├── Logic
+│   │   │   ├── Ontologies
+│   │   │   ├── Knowledge Graphs
+│   │   │   ├── Semantic Networks
+│   │   │   ├── Frames
+│   │   │   ├── Constraint Models
+│   │   │   └── Programs
+│   │   │
 │   │   ├── Statistical Representation
+│   │   │   ├── Probability Distributions
+│   │   │   ├── Bayesian Networks
+│   │   │   ├── Markov Models
+│   │   │   ├── Feature Vectors
+│   │   │   └── Latent Variable Models
+│   │   │
 │   │   ├── Neural Representation
+│   │   │   ├── Embeddings
+│   │   │   ├── Dense Vector Representations
+│   │   │   ├── Sparse Vector Representations
+│   │   │   ├── Hidden State Representations
+│   │   │   ├── Attention Representations
+│   │   │   └── Latent Representations
+│   │   │
 │   │   └── Hybrid Representation
+│   │       ├── Neuro-symbolic
+│   │       ├── Retrieval-Augmented
+│   │       ├── Graph-Neural
+│   │       └── Multi-representation
 │   │
 │   ├── Computational Architecture
 │   |   (What mechanism performs computation and inference?)
