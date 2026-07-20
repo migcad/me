@@ -457,66 +457,180 @@ Artificial Intelligence Meta-Ontology
 │       ├── Tracing
 │       └── Evaluation
 │
-│
 └── C. AI Ecosystem
-    (How are AI products and AI organisations structured?)
+│   (How are AI products and AI organisations structured?)
+│   │
+│   ├── Development Ecosystem
+│   │   │
+│   │   ├── Academic
+│   │   ├── Government
+│   │   ├── Commercial
+│   │   ├── Open-source Community
+│   │   ├── Consortium
+│   │   └── Individual Developer
+│   │
+│   ├── Solution Form
+│   │   │
+│   │   ├── Foundation Model
+│   │   ├── Assistant
+│   │   ├── Chatbot
+│   │   ├── Agent
+│   │   ├── Copilot
+│   │   ├── Search System
+│   │   ├── Recommendation System
+│   │   ├── Robotics System
+│   │   ├── Scientific System
+│   │   └── Enterprise Platform
+│   │
+│   ├── Licensing Model
+│   │   │
+│   │   ├── Proprietary
+│   │   ├── Open Weights
+│   │   ├── Open Source
+│   │   └── Hybrid Licensing
+│   │
+│   ├── Computational Governance Architecture
+│   │   │
+│   │   ├── Centralised
+│   │   ├── Federated
+│   │   ├── Distributed
+│   │   ├── Peer-to-peer
+│   │   ├── Blockchain-based
+│   │   └── Decentralised Compute Marketplace
+│   │
+│   ├── Economic Model (Monetisation Mechanisms)
+│   │   │
+│   │   ├── Subscription
+│   │   ├── Usage-based
+│   │   ├── Marketplace
+│   │   └── Token-based
+│   │
+│   ├── Distribution Model
+│   │   │
+│   │   ├── Cloud Service
+│   │   ├── On-premises
+│   │   ├── Edge Distribution
+│   │   └── Hybrid Distribution
+│   │
+│   └── Ownership Model
+│       │
+│       ├── Private Ownership
+│       ├── Enterprise Ownership
+│       ├── Community Ownership
+│       └── Public Ownership
+│
+└── D. AI Socioeconomic Transformation
     │
-    ├── Development Ecosystem
+    ├── Value Architecture
+    │   (Where is economic value created versus profits captured?)
     │   │
-    │   ├── Academic
-    │   ├── Government
-    │   ├── Commercial
-    │   ├── Open-source Community
-    │   ├── Consortium
-    │   └── Individual Developer
-    │
-    ├── Solution Form
+    │   ├── Value Production
+    │   │   (Who creates the value?)
     │   │
-    │   ├── Foundation Model
-    │   ├── Assistant
-    │   ├── Chatbot
-    │   ├── Agent
-    │   ├── Copilot
-    │   ├── Search System
-    │   ├── Recommendation System
-    │   ├── Robotics System
-    │   ├── Scientific System
-    │   └── Enterprise Platform
-    │
-    ├── Licensing Model
+    │   ├── Value Delivery
+    │   │   (Where does value reache the customer?)
     │   │
-    │   ├── Proprietary
-    │   ├── Open Weights
-    │   ├── Open Source
-    │   └── Hybrid Licensing
-    │
-    ├── Computational Governance Architecture
+    │   ├── Value Capture
+    │   │   (Who earns the economic returns?)
     │   │
-    │   ├── Centralised
-    │   ├── Federated
-    │   ├── Distributed
-    │   ├── Peer-to-peer
-    │   ├── Blockchain-based
-    │   └── Decentralised Compute Marketplace
-    │
-    ├── Economic Model (Monetisation Mechanisms)
+    │   ├── Value Distribution
+    │   │   (How are those returns shared among stakeholders?)
     │   │
-    │   ├── Subscription
-    │   ├── Usage-based
-    │   ├── Marketplace
-    │   └── Token-based
+    │   └── Value Appropriation
+    │       (Who controls the mechanisms and strategic assets that determine future value capture and influences value distribution via bargaining power?)
     │
-    ├── Distribution Model
+    ├── Work Automation Profile
     │   │
-    │   ├── Cloud Service
-    │   ├── On-premises
-    │   ├── Edge Distribution
-    │   └── Hybrid Distribution
+    │   ├── Work Domain
+    │   │   ├── Physical Work
+    │   │   ├── Knowledge Work
+    │   │   └── Hybrid Work
+    │   │
+    │   ├── Task Variability
+    │   │   ├── Routine
+    │   │   ├── Semi-routine
+    │   │   ├── Variable
+    │   │   └── Novel
+    │   │
+    │   ├── Cognitive Complexity
+    │   │   ├── Mechanical
+    │   │   ├── Procedural
+    │   │   ├── Analytical
+    │   │   ├── Creative
+    │   │   └── Strategic
+    │   │
+    │   ├── Physical Complexity
+    │   │   ├── Fine Manipulation
+    │   │   ├── Heavy Manipulation
+    │   │   ├── Locomotion
+    │   │   ├── Dexterity
+    │   │   └── Multi-modal Coordination
+    │   │
+    │   ├── Environmental Predictability
+    │   │   ├── Highly Structured
+    │   │   ├── Moderately Structured
+    │   │   ├── Unstructured
+    │   │   └── Adversarial
+    │   │
+    │   ├── Human Interaction Requirement
+    │   │   ├── None
+    │   │   ├── Occasional
+    │   │   ├── Frequent
+    │   │   └── Relationship-intensive
+    │   │
+    │   ├── Decision Criticality
+    │   │   ├── Low
+    │   │   ├── Medium
+    │   │   ├── High
+    │   │   └── Safety-critical
+    │   │
+    │   └── Automation Potential
+    │       ├── Already Automated
+    │       ├── Near-term
+    │       ├── Medium-term
+    │       ├── Long-term
+    │       └── Fundamentally Human
     │
-    └── Ownership Model
+    ├── Organizational Transformation
+    │   │
+    │   ├── Job Redesign
+    │   ├── Workflow Redesign
+    │   ├── Process Re-engineering
+    │   ├── Organizational Restructuring
+    │   ├── Human-AI Collaboration
+    │   ├── Human-AI Supervision
+    │   ├── Agentic Organization
+    │   └── Autonomous Enterprise
+    │
+    ├── Labour Market Transformation
+    │   │
+    │   ├── Job Creation
+    │   ├── Job Augmentation
+    │   ├── Job Displacement
+    │   ├── Occupational Transformation
+    │   ├── Skill Transformation
+    │   ├── Wage Redistribution
+    │   └── Employment Polarization
+    │
+    ├── Competitive Advantage
+    │   │
+    │   ├── Cost Leadership
+    │   ├── Speed Advantage
+    │   ├── Quality Advantage
+    │   ├── Innovation Advantage
+    │   ├── Customer Experience Advantage
+    │   ├── Data Advantage
+    │   ├── Network Advantage
+    │   └── Platform Advantage
+    │
+    └── Economic Dynamics
         │
-        ├── Private Ownership
-        ├── Enterprise Ownership
-        ├── Community Ownership
-        └── Public Ownership
+        ├── Productivity Growth
+        ├── Cost Reduction
+        ├── Scale Economics
+        ├── Marginal Cost Compression
+        ├── Market Concentration
+        ├── Market Democratization
+        ├── Value Chain Reconfiguration
+        └── New Market Creation
 ```
