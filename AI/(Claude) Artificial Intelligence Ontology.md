@@ -459,7 +459,7 @@ Artificial Intelligence Meta-Ontology
 │
 │
 └── C. AI Ecosystem
-    (How are AI products and organisations structured?)
+    (How are AI products and AI organisations structured?)
     │
     ├── Development Ecosystem
     │   │
