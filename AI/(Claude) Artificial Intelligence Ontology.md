@@ -536,9 +536,17 @@ Artificial Intelligence Meta-Ontology
     │   ├── Value Distribution
     │   │   (How are those returns shared among stakeholders?)
     │   │
-    │   └── Value Appropriation
+    │   └── Value Control (Value Appropriation)
     │       (Who controls the mechanisms and strategic assets that determine future value capture and influences value distribution via bargaining power?)
-    │
+    |       ├── Customer Relationship
+    |       ├── Distribution Channels
+    |       ├── Data Ownership
+    |       ├── Platform Ownership
+    |       ├── Ecosystem Control
+    |       ├── Standards Control
+    |       ├── Intellectual Property
+    |       └── Network Effects
+    |
     ├── Work Automation Profile
     │   │
     │   ├── Work Domain
