@@ -13,13 +13,14 @@ And yet, we remain obsessed with the human-in-the-loop argument.
 
 - The moment you delegate something to an AI, you're also outsouring the control over it.  Instead, use the AI for delegating to it "disposable control" and implementing safe guard rails (e.g. scripting/tooling code base, not productive code base)
 
-- https://platforms.substack.com
-- https://platforms.substack.com/p/the-many-fallacies-of-ai-wont-take
-- https://platforms.substack.com/p/ai-wont-eat-your-job-but-it-will \
-Platforms, AI, and the Economics of BigTech
+- Platforms, AI, and the Economics of BigTech
+https://platforms.substack.com \
+https://platforms.substack.com/p/the-many-fallacies-of-ai-wont-take \
+https://platforms.substack.com/p/ai-wont-eat-your-job-but-it-will \
 
-- https://innovatingwithai.com \
-Coaching, community & curriculum to help everyone thrive in our AI‑powered future.
+
+- Coaching, community & curriculum to help everyone thrive in our AI‑powered future
+https://innovatingwithai.com
 
 - https://www.emeraldrock.co 
 (Wes) Wesley Volz. Data and AI are changing how businesses operate and reshaping our careers.\
