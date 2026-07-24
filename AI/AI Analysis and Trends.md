@@ -3,7 +3,7 @@
 ## What skills will become valuable in an AI & robotics world?
 
 ### Adaptive Cognition/Intelligence
-Shortest version: Understand, decide, adapt
+Shortest version: Understand, decide, adapt \
 Short version: Observe carefully, think deeply, decide intentionally, act courageously, and adapt continuously
 
 Identify, Understand, Evaluate, Communicate, Control others, Guide others, Influence others, Negotiatie with others, Make a decision, Assume the consequences, Pivot, Improve based on consquences
