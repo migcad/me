@@ -1,10 +1,17 @@
 # AI Analysis and Trends
 
 ## What skills will become valuable in AI & robotics world?
+
+### Adaptive Cognition/Intelligence
+Shortest version: Understand, decide, adapt
+Short version: Observe carefully, think deeply, decide intentionally, act courageously, and adapt continuously
+
 Identify, Understand, Evaluate, Communicate, Control others, Guide others, Influence others, Negotiatie with others, Make a decision, Assume the consequences, Pivot, Improve based on consquences
 - strategic objectives
 - what to optimise for
 - feasible tradeoffs to chose from
+
+
 
 ## Value capture decoupling from Value creation because your skill premium is being eaten by AI
 
