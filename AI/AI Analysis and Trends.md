@@ -1,6 +1,6 @@
 # AI Analysis and Trends
 
-## What skills will become valuable in AI & robotics world?
+## What skills will become valuable in an AI & robotics world?
 
 ### Adaptive Cognition/Intelligence
 Shortest version: Understand, decide, adapt
