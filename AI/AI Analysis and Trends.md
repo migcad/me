@@ -9,6 +9,8 @@ infinite reasoning
 hyper-tasker
 feedback augmentor
 
+improvisational expertise
+
 ## What skills will become valuable in an AI & robotics world?
 
 ### Adaptive Cognition/Intelligence
