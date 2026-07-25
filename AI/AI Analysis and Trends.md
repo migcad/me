@@ -10,6 +10,7 @@ hyper-tasker
 feedback augmentor
 
 improvisational expertise
+resourceful
 
 ## What skills will become valuable in an AI & robotics world?
 
