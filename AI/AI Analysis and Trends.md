@@ -1,5 +1,14 @@
 # AI Analysis and Trends
 
+## What is AI?
+- Adpative Intelligence augmentor
+cognitive augmentor
+infinite intelligence
+infinite creative thinking
+infinite reasoning
+hyper-tasker
+feedback augmentor
+
 ## What skills will become valuable in an AI & robotics world?
 
 ### Adaptive Cognition/Intelligence
