@@ -1,4 +1,4 @@
-Our objective is not to create Prosumers but to provide an environment and craft interactions where Prosumers are inevitable.
+Our objective is not to create literate but to provide an environment and craft human interactions where Real-life Prosumers are inevitable
 
 
 
