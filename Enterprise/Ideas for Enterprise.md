@@ -1,4 +1,12 @@
+Our objective is not to create Prosumers but to provide an environment and craft interactions where Prosumers are inevitable.
+
+
+
+
 Prosumer: The Active Creator (Producer + Consumer)
+
+
+
 
 "Algo mas terrenal"
 
