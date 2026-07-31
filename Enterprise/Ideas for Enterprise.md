@@ -11,7 +11,8 @@ Examples:
 Capablian
 
 Raising Capablian Kids \
-Beyond Grades. Building Human Capability.
+Beyond Grades. Building Human Capability. \
+Beyond Grades. Raising Capable Humans
 
 Meaning:
 
