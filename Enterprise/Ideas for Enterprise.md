@@ -1,3 +1,8 @@
+
+
+
+---
+
 Our objective is not to create literate but to provide an environment and craft human interactions where Real-life Prosumers are inevitable
 
 Prosumer: The Active Creator (Producer + Consumer)
@@ -11,8 +16,11 @@ Examples:
 Capablian
 
 Raising Capablian Kids \
-Beyond Grades. Building Human Capability. \
-Beyond Grades. Raising Capable Humans
+Beyond Grades. Building Human Capability \
+Beyond Grades. Raising Capable Humans \
+Raising C Kids \
+Kids Creating Not Just Learning \
+Helping Children Build, Not Just Learn
 
 Meaning:
 
@@ -29,7 +37,7 @@ New paradigm:
 
 "What can you actually do? How effectively can you think, adapt, create, solve, connect, and contribute?"
 
-Helping Children Build, Not Just Learn \
+
 This has strong AI-era relevance because AI increases the value of creators.
 
 ---
