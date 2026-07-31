@@ -26,7 +26,8 @@ Beyond Grades. Raising Capable Kids \
 Raising Creator Kids Not Just Learners \
 Raising Builder Kids Not Just Learners \
 
-Raising Generation Capable
+Raising Generation Capable \
+Generation Capable
 
 Meaning:
 
