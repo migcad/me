@@ -10,7 +10,7 @@ Examples:
 
 Capablian
 
-Raising Capablian Kids
+Raising Capablian Kids \
 Beyond Grades. Building Human Capability.
 
 Meaning:
