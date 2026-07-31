@@ -18,6 +18,16 @@ Someone defined by capability rather than credentials.
 
 ---
 
+Old paradigm:
+
+"How many certificates, grades, degrees, awards, and qualifications do you have?"
+
+New paradigm:
+
+"What can you actually do? How effectively can you think, adapt, create, solve, connect, and contribute?"
+
+---
+
 "Algo mas terrenal"
 
 FIRST PRINCIPLES
