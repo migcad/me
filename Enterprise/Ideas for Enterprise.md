@@ -20,7 +20,9 @@ Beyond Grades. Building Human Capability \
 Beyond Grades. Raising Capable Humans \
 Raising C Kids \
 Kids Creating Not Just Learning \
-Helping Children Build, Not Just Learn
+Helping Children Build, Not Just Learn \
+Raising Creators Not Just Learners \
+Beyond Grades. Raising Capable Kids
 
 Meaning:
 
