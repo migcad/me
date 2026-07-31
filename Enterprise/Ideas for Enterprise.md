@@ -20,7 +20,8 @@ Someone defined by capability rather than credentials.
 
 Old paradigm:
 
-"How many certificates, grades, degrees, awards, and qualifications do you have?"
+"How many certificates, grades, degrees, awards, and qualifications do you have?" \
+School prepares children for tests. Life requires capability.
 
 New paradigm:
 
