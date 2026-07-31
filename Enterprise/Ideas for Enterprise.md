@@ -29,6 +29,9 @@ New paradigm:
 
 "What can you actually do? How effectively can you think, adapt, create, solve, connect, and contribute?"
 
+Helping Children Build, Not Just Learn \
+This has strong AI-era relevance because AI increases the value of creators.
+
 ---
 
 "Algo mas terrenal"
