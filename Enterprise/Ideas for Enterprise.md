@@ -21,8 +21,12 @@ Beyond Grades. Raising Capable Humans \
 Raising C Kids \
 Kids Creating Not Just Learning \
 Helping Children Build, Not Just Learn \
-Beyond Grades. Raising Capable Kids
+
+Beyond Grades. Raising Capable Kids \
 Raising Creator Kids Not Just Learners \
+Raising Builder Kids Not Just Learners \
+
+Raising Generation Capable
 
 Meaning:
 
