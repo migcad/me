@@ -1,12 +1,22 @@
 Our objective is not to create literate but to provide an environment and craft human interactions where Real-life Prosumers are inevitable
 
-
-
-
 Prosumer: The Active Creator (Producer + Consumer)
 
+---
 
+This gives you something that nobody else owns.
 
+Examples:
+
+Capablian
+
+Raising Capablian Kids
+
+Meaning:
+
+Someone defined by capability rather than credentials.
+
+---
 
 "Algo mas terrenal"
 
