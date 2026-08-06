@@ -1,4 +1,12 @@
-# What would need to happen in our society for AI becoming a decentralised marketplace with economic activity proportionally significant to the economic activity of current AI centralised marketplaces like Hugging Face?
+# AIOZ becoming an AI decentralised marketplace
+
+## PROMPT
+```none
+What would need to happen in our society for AI becoming a decentralised marketplace
+with economic activity proportionally significant to the economic activity of current
+AI centralised marketplaces like Hugging Face? In your analysis include "AIOZ Network"
+as an alternative for an AI decentralised marketplace
+```
 
 This is a very deep question because it asks whether **AI can follow a
 similar decentralisation trajectory to money (Bitcoin), computation
