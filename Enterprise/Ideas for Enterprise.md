@@ -3,8 +3,9 @@
 - Coordination layer/protocol with network/flywheel effects
 E.g. SUI blockchain, DeepBook protocol, marketplace (e.g. Uber, Hugging Pace AI platform and community, Real Vision platform and community), exchange (e.g. Derive)
 A resource is being coordinated (e.g. on-chain liquidity in DeepBook protocol, AI models in Hugging Face, 
-- )
-Groups depend and compound each other
+- Groups depend and compound each other
+
+In order to make money in the marketplace you need to make more value than you are consuming
 
 ---
 
