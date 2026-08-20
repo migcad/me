@@ -1,0 +1,1 @@
+- It's an affirmation machine built by a for-profit company that wants you to stay on
