@@ -1,5 +1,13 @@
 # GENESIS GOAL
 
+KEY WORDS
+- dad / daughter
+- future
+- preparing / securing / planning / helping
+
+
+---
+
 - Coordination layer/protocol with network/flywheel effects
 E.g. SUI blockchain, DeepBook protocol, marketplace (e.g. Uber, Hugging Pace AI platform and community, Real Vision platform and community), exchange (e.g. Derive)
 A resource is being coordinated (e.g. on-chain liquidity in DeepBook protocol, AI models in Hugging Face, 
