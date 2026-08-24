@@ -5,12 +5,12 @@ Capabilities
 - Problem-to-outcome ownership
 - Multi-level, cross-functional & cross-cultural fluency
 - Continuous Value Optimisation
-- 
+- Build communities
 
+5 year alternative path
+- Understand & embody grind trends (temporary financial freedom, early childhood empowerment, self-made billionaire mindset, over 70s fitness, integrating into high coherence societies [Scandinavia], emerging technologies[blockchain & AI])
 
 - How money is created, how it flows and how different entities in society allocate it
-- Understand the grind mindset (billionaire, early childhood empowerment, over 70s fitness, high coherence societies [Scandinavia])
-- 
 
 ---
 
