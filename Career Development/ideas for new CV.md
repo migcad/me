@@ -1,3 +1,19 @@
+Identity
+"What if..." and "No means not yet" individual
+
+Capabilities
+- Problem-to-outcome ownership
+- Multi-level, cross-functional & cross-cultural fluency
+- Continuous Value Optimisation
+- 
+
+
+- How money is created, how it flows and how different entities in society allocate it
+- Understand the grind mindset (billionaire, early childhood empowerment, over 70s fitness, high coherence societies [Scandinavia])
+- 
+
+---
+
 My overall experience is well rounded because it's a balance of opposite extremes:
 - "practical grounding" and "theoretical groudning"
 - "technical grounding" and "strategic grounding"
