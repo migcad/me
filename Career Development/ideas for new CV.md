@@ -5,7 +5,7 @@ WHO I AM
 - Enterprise consulting over 16 years working at Brisbane City Council, Aurizon, Civil Aviation Safety Authority, Suncorp, Virgin Australia, QLD Gov and HP Enterprise Services (formerly EDS).
 
 2021-PRESENT EXPERIENCE
-- Self-funded initiative to deepen my knowledge and experience in alternative early-childhood education, macro economy and financial markets, emerging technologies, 10x mindset, living in Scandinavia and over 70s fitness.
+- Self-funded initiative through which I deepened my knowledge and experience in alternative early-childhood education, macroeconomics and financial markets, emerging technologies, 10× thinking, Scandinavian living, and fitness for people aged 70+.
 
 SENIOR COMPETENCIES
 - Business Process Improvement
