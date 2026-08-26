@@ -1,5 +1,13 @@
 IDENTITY
-"What if..." and "No means not yet" individual
+- "What if..." and "No means not yet" individual
+
+EXPERIENCE
+- Enterprise consultant with over 16 years of experience having worked at Brisbane City Council, Aurizon, Civil Aviation Safety Authority, Suncorp, Virgin Australia and HP Enterprise Services (formerly EDS).
+
+COMPETENCIES
+- 
+
+
 
 Capabilities
 - Problem-to-outcome ownership
