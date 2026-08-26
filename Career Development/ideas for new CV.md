@@ -1,53 +1,62 @@
-WHO I AM
-- An individual passionate about building the capability to adapt, both at the enterprise and personal level, in an increasingly uncertain and rapidly changing world.  I think of myself as a "What if..." and "No, means not yet" individual.
+ABOUT ME
+An enterprise professional who bridges strategy, business and technology to understand complex problems, improve organisational performance and build the capability to adapt in an uncertain and rapidly changing environment.
+I am passionate about building adaptive capability, both at the enterprise and personal level, to navigate an increasingly uncertain and rapidly changing world. I see myself as a "What if...?" and "No means not yet" individual, curious about possibilities, persistent in finding ways forward, and comfortable challenging assumptions.
 
-1998-2021 EXPERIENCE
-- Enterprise consulting over 16 years working at Brisbane City Council, Aurizon, Civil Aviation Safety Authority, Suncorp, Virgin Australia, QLD Gov and HP Enterprise Services (formerly EDS).
+SENIOR COMPETENCIES (deep professional mastery)
+• Business Process Improvement
+• Business Analysis
 
-2021-PRESENT EXPERIENCE
-- Self-funded initiative through which I deepened my knowledge and experience in alternative early-childhood education, macroeconomics and financial markets, emerging technologies, 10× thinking, Scandinavian living, and fitness for people aged 70+.
-
-SENIOR COMPETENCIES
-- Business Process Improvement
-- Business Analysis
-- Enterprise Architecture
-
-PRACTITIONER COMPETENCIES
-- Strategic Thinking and Macro-Strategic Analysis
-- Business Model Analysis
-- Operating Model Analysis
-- Enterprise ICT Fluency
-- Software Development
-- LLM Rail-Guarding
+PRACTITIONER COMPETENCIES (substantial working capability)
+• Strategic Thinking and Macro-Strategic Analysis
+• Business Model and Operating Model Analysis
+• Enterprise Architecture Analysis
+• Risk Management
+• Enterprise ICT Fluency
+• Software Development
+• AI LLM Guardrail Engineering
 
 CAPABILITIES
-- Problem-to-outcome ownership
-- Multi-level, cross-functional & cross-cultural collaboration
-- Continuous value optimisation
-- Uncertainty navigation
-- Community building & mentoring
+• Problem-to-Outcome Ownership
+• Multi-Level, Cross-Functional & Cross-Cultural Collaboration
+• Continuous Value Optimisation
+• Adaptive Capability & Uncertainty Navigation
+• Community Building & Mentoring
+
+EXECUTIVE EXPOSURE
+• Presented project findings, strategic analysis and recommendations directly to Corporate Boards across my final three roles.
 
 TOP ACCOMPLISHMENTS
-- Led the strategy design and implementation of process improvement and risk mitigation on certain cash flows due to fraud incident at Brisbane City Council
-- Led the initial development of the service and process architecture for the Commercial Operations of Aurizon above-rail, key to scope and prioritise further programs
-- Led the development of Business Process Improvement capability at the Civil Aviation Safety Authority
-- Helped identify opportunities for standardising the issuance of two of the most important certificates the Civil Aviation Safety Authority awards
-- Helped elicit and implement system requirements for expanding Virgin Blue's flights network
+• Led the design and implementation of process improvement and risk mitigation strategies for two of the affected cash flows
+following a fraud incident at Brisbane City Council.
+• Led the initial development of the service and process architecture for Aurizon's Above Rail Commercial Operations, providing the
+foundation for scoping and prioritising subsequent improvement programs
+• Led the development of Business Process Improvement capability at the Civil Aviation Safety Authority
+• Identified opportunities to standardise the issuance of two of the Civil Aviation Safety Authority's most important certificates
+• Elicited and supported implementation of system requirements for expanding Virgin Blue's flight network
 
-EDUCATION
-- Master of Business (UQ, Brisbane, Australia - partially completed)
-- Master of Business Process Management / MBA (QUT, Brisbane, Australia)
-- Graduate Diploma in IT (QUT, Brisbane, Australia)
-- Bachelor of Electronics Engineering, Computer Science (UAM, Mexico City, Mexico)
+CAREER & PROFESSIONAL DEVELOPMENT | 1998-2021
+16+ years of enterprise consulting experience across Brisbane City Council, Aurizon, Civil Aviation Safety Authority, Suncorp, Virgin
+Australia, Queensland Government and HP Enterprise Services (formerly EDS), complemented by periods dedicated to postgraduate
+education, public courses, self-guided development and international travel.
 
-PAST ROLES
-- Business Intelligence Analyst
-- Business Process Improvement Consultant
-- Process Analyst Team Leader
-- Business Process Analyst
-- Business Analyst
-- Information Analyst
-- IT Consultant
+SELF-GUIDED DEVELOPMENT | 2021-PRESENT
+Self-funded initiative focused on deepening my knowledge and experience in alternative early-childhood education, macroeconomics
+and financial markets, entrepreneurship, emerging technologies, 10× thinking, Scandinavian living, and healthy ageing.
+
+TERTIARY AND POSTGRADUATE EDUCATION
+• Master of Business (UQ, Brisbane, Australia - partially completed)
+• Master of Business Process Management / MBA (QUT, Brisbane, Australia)
+• Graduate Diploma in IT (QUT, Brisbane, Australia)
+• Bachelor of Electronics Engineering, Computer Science (UAM, Mexico City, Mexico)
+
+PREVIOUS ROLES
+• Business Intelligence Analyst
+• Business Process Improvement Consultant
+• Process Analyst Team Leader
+• Business Process Analyst
+• Business Analyst
+• Information Analyst
+• IT Consultant
 
 
 
