@@ -1,4 +1,4 @@
-Identity
+IDENTITY
 "What if..." and "No means not yet" individual
 
 Capabilities
