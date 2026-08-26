@@ -25,8 +25,7 @@ CAPABILITIES
 - Multi-level, cross-functional & cross-cultural collaboration
 - Continuous value optimisation
 - Uncertainty navigation
-- Community building
-- Mentorship
+- Community building & mentorship
 
 TOP ACCOMPLISHMENTS
 - Led the strategy design and implementation of process improvement and risk mitigation on certain cash flows due to fraud incident at Brisbane City Council
