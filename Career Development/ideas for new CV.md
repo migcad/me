@@ -1,19 +1,50 @@
-IDENTITY
-- "What if..." and "No means not yet" individual
+WHO I AM
+- An individual passionate about building the capability to adapt, both at the enterprise and personal level, in an increasingly uncertain and rapidly changing world.  I think of myself as a "What if..." and "No, means not yet" individual.
 
-EXPERIENCE
-- Enterprise consultant with over 16 years of experience having worked at Brisbane City Council, Aurizon, Civil Aviation Safety Authority, Suncorp, Virgin Australia and HP Enterprise Services (formerly EDS).
+1998-2021 EXPERIENCE
+- Enterprise consulting over 16 years working at Brisbane City Council, Aurizon, Civil Aviation Safety Authority, Suncorp, Virgin Australia, QLD Gov and HP Enterprise Services (formerly EDS).
 
-COMPETENCIES
-- 
+2021-PRESENT EXPERIENCE
+- Self-funded initiative to deepen my knowledge and experience in alternative early-childhood education, macro economy and financial markets, emerging technologies, 10x mindset, living in Scandinavia and over 70s fitness.
 
+SENIOR COMPETENCIES
+- Business Process Improvement
+- Business Analysis
+- Enterprise Architecture
 
+PRACTITIONER COMPETENCIES
+- Macro-Strategic Analysis
+- Business Model Analysis
+- Operating Model Analysis
+- Enterprise ICT Fluency
+- Software Development
+- LLM Rail-Guarding
 
-Capabilities
+CAPABILITIES
 - Problem-to-outcome ownership
-- Multi-level, cross-functional & cross-cultural fluency
-- Continuous Value Optimisation
-- Build communities
+- Multi-level, cross-functional & cross-cultural collaboration
+- Continuous value optimisation
+- Uncertainty navigation
+- Community building
+- Mentorship
+
+EDUCATION
+- Bachelor of Electronics Engineering, Computer Science (UAM, Mexico City, Mexico)
+- Graduate Diploma in IT (QUT, Brisbane, Australia)
+- Master of Business Process Management / MBA (QUT, Brisbane, Australia)
+- Master of Business (UQ, Brisbane, Australia - partially completed)
+
+PAST ROLES
+- Business Intelligence Analyst
+- Business Process Improvement Consultant
+- Process Analyst Team Leader
+- Business Process Analyst
+- Business Analyst
+- Information Analyst
+- IT Consultant
+
+
+
 
 5 year alternative path
 - Understand & embody grind trends (temporary financial freedom, early childhood empowerment, self-made billionaire mindset, over 70s fitness, integrating into high coherence societies [Scandinavia], emerging technologies[blockchain & AI])
