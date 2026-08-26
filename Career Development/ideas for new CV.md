@@ -30,7 +30,7 @@ CAPABILITIES
 
 TOP ACCOMPLISHMENTS
 - Led the strategy design and implementation of process improvement and risk mitigation on certain cash flows due to fraud incident at Brisbane City Council
-- Lead the initial development of the service and process architecture for the Commercial Operations of Aurizon above-rail, key to scope and prioritise further programs
+- Led the initial development of the service and process architecture for the Commercial Operations of Aurizon above-rail, key to scope and prioritise further programs
 - Lead the development of Business Process Improvement capability at the Civil Aviation Safety Authority
 - Helped identify opportunities for standardising the issuance of two of the most important certificates the Civil Aviation Safety Authority awards
 - Helped elicit and implement system requirements for expanding Virgin Blue's flights network
