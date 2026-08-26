@@ -13,7 +13,7 @@ SENIOR COMPETENCIES
 - Enterprise Architecture
 
 PRACTITIONER COMPETENCIES
-- Macro-Strategic Analysis
+- Strategic Thinking and Macro-Strategic Analysis
 - Business Model Analysis
 - Operating Model Analysis
 - Enterprise ICT Fluency
@@ -28,11 +28,18 @@ CAPABILITIES
 - Community building
 - Mentorship
 
+TOP ACCOMPLISHMENTS
+- Led the strategy design and implementation of process improvement and risk mitigation on certain cash flows due to fraud incident at Brisbane City Council
+- Lead the initial development of the service and process architecture for the Commercial Operations of Aurizon above-rail, key to scope and prioritise further programs
+- Lead the development of Business Process Improvement capability at the Civil Aviation Safety Authority
+- Helped identify opportunities for standardising the issuance of two of the most important certificates the Civil Aviation Safety Authority awards
+- Helped elicit and implement system requirements for expanding Virgin Blue's flights network
+
 EDUCATION
-- Bachelor of Electronics Engineering, Computer Science (UAM, Mexico City, Mexico)
-- Graduate Diploma in IT (QUT, Brisbane, Australia)
-- Master of Business Process Management / MBA (QUT, Brisbane, Australia)
 - Master of Business (UQ, Brisbane, Australia - partially completed)
+- Master of Business Process Management / MBA (QUT, Brisbane, Australia)
+- Graduate Diploma in IT (QUT, Brisbane, Australia)
+- Bachelor of Electronics Engineering, Computer Science (UAM, Mexico City, Mexico)
 
 PAST ROLES
 - Business Intelligence Analyst
