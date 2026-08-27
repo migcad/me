@@ -5,6 +5,11 @@ KEY WORDS
 - future
 - preparing / securing / planning / helping
 
+from Competent to Capable
+- Life skills
+- Operational skills (build capacity [Alex Harmozi])
+- Business skills (upscale journey)
+
 
 ---
 
