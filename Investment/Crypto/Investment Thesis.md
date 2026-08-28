@@ -41,4 +41,4 @@
 - DeFi
 - payments
 - prediction markets
-- programmable tunnels
+- programmable tunnels (agent-to-agent commerce)
