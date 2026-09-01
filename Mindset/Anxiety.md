@@ -2,3 +2,7 @@ The most powerful message your "survival" mind will be sending you is that:
 - you are alone
 - you are the only one who feels like this,
 - it's never going to get any better
+
+But remember:
+- no mental state is a permanent state
+- there is so much help out there, it starts by putting up your hand. It starts with telling someone "I'm not doing that great"
