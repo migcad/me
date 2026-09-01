@@ -6,3 +6,5 @@ The most powerful message your "survival" mind will be sending you is to "shift 
 But remember:
 - no mental state is a permanent state
 - there is so much help out there, it starts by putting up your hand. It starts with telling someone "I'm not doing that great"
+
+The best way to decrease anxiety is to seek seeing the world through a constructive proxy mind rather than ours which is in a downwards spiral + establishing a plan of action (goal + continuous feedback + continuous pivoting)
