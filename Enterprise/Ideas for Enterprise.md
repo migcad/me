@@ -12,13 +12,13 @@ from Competent to Capable
 
 ---
 
-C ompetent
-C apable
+- C ompetent
+- C apable
 
-C apacity
+- C apacity
 
-C onsistency
-C ompounding
+- C onsistency
+- C ompounding
 
 ---
 
