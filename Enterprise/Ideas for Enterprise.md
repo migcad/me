@@ -10,6 +10,9 @@ from Competent to Capable
 - Operational skills (build capacity [Alex Harmozi])
 - Business skills (upscale journey)
 
+---
+
+The fundamentals work. The problem is they require consistency over years, which is boring to sell and hard to maintain.
 
 ---
 
