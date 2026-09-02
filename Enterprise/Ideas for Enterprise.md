@@ -13,6 +13,7 @@ from Competent to Capable
 ---
 
 The fundamentals work. The problem is they require consistency over years, which is boring to sell and hard to maintain.
+Think of the growth and progression of strength in the same terms as compounding interest and investing. Have a long term vision and make consistent, accurate deposits and the benefits can grow exponentially.
 
 ---
 
